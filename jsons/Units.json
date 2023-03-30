@@ -32,6 +32,25 @@
 		"cost": 20
     },
 
+    // Settler
+    {
+		"name": "Firefly",
+		"unitType": "Civilian",
+        "replaces": "Settler",
+        "uniqueTo": "Logicians",
+
+		"movement": 3,
+
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population"],
+
+        "hurryCostModifier": 20,
+
+		"cost": 106
+    },
+
     // Great Units
     {
         "name": "Wilber",
