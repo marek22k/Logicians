@@ -2,8 +2,9 @@
 
 ## Hosting
 
-- Codeberg
-- GitHub
+- [Codeberg](https://codeberg.org/mark22k/UnCiv-Logicians)
+- [NotABug](https://notabug.org/mark22k/UnCiv-Logicians)
+- [GitHub](https://github.com/marek22k/Logicians)
 
 ## Image authors
 
