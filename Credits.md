@@ -1,5 +1,10 @@
 # Credits
 
+## Hosting
+
+- Codeberg
+- GitHub
+
 ## Image authors
 
 | Picture | Author | Source |
@@ -27,3 +32,8 @@
 - Inkscape (for editing the images)
 - VSCodium (for editing the JSON files)
 - Pluma (for editing files)
+
+# Others
+
+City names: https://namesfrog.com/city-names/
+
