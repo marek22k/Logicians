@@ -20,7 +20,7 @@ BuildingIcons/Wall of fire
   index: -1
 NationIcons/Logicians
   rotate: false
-  xy: 1460, 106
+  xy: 1460, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -107,12 +107,5 @@ UnitIcons/Yumi
   xy: 1252, 4
   size: 200, 200
   orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/path24
-  rotate: false
-  xy: 1460, 214
-  size: 138, 198
-  orig: 138, 198
   offset: 0, 0
   index: -1

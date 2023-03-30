@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="700"
    height="700"
    version="1.1"
    viewBox="0 0 525.00001 525.00001"
    id="svg155"
    sodipodi:docname="Dino.svg"
-   inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/Source/Dino.png"
+   inkscape:export-filename="/home/marek/git/UnCiv-Logicians/Images/UnitIcons/Dino.png"
    inkscape:export-xdpi="27.428572"
    inkscape:export-ydpi="27.428572"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata159">
     <rdf:RDF>
@@ -25,7 +25,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,18 +37,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1848"
-     inkscape:window-height="1103"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      id="namedview157"
      showgrid="false"
      units="px"
      inkscape:zoom="0.25285714"
-     inkscape:cx="466.66667"
+     inkscape:cx="468.64407"
      inkscape:cy="466.66667"
-     inkscape:window-x="1352"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg155" />
+     inkscape:current-layer="svg155"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs71">
     <symbol
@@ -262,11 +262,12 @@
   </defs>
   <g
      id="g202"
-     transform="translate(-87.499275,-17.503338)">
+     transform="translate(-87.499275,-17.503338)"
+     style="fill:#ffffff;fill-opacity:1">
     <path
        d="m 288.4,189.42 84.566,30.801 164.91,9.5195 64.121,118.16 -30.801,68.039 v 104.16 l -65.801,0.004 v -40.602 l -22.398,3.3672 v 37.234 h -66.078 v -27.16 l -7.2812,1.1211 -42.281,-9.8008 v 35.836 h -64.398 v -51.801 l -89.039,-21.836 -98.84,21.559 -6.4336,-20.16 90.992,-41.859 183.96,19.465 -10.922,-1.3984 50.688,5.3125 78.68,-30.516 15.68,-52.086 -17.078,-5.0352 -13.164,43.961 -66.363,25.762 h -0.28125 l -5.1797,-0.56641 -48.301,-16.52 v 11.621 l -14.285,-1.5352 c -1.8633,-0.18359 -3.7305,-0.375 -5.6016,-0.56641 l -39.48,-4.1992 c -1.4961,-0.18359 -2.9844,-0.37109 -4.4805,-0.55859 h -0.55859 v -40.039 l -123.47,-228.2 -50.113,-3.9219 -31.367,-49.277004 68.879,-37.801 59.641,40.602 z m 234.92,90.156 v -17.633 h -20.719 v 17.633 z m -32.48,-1.1133 1.3984,-17.641 -83.164,-6.1602 -1.3984,17.633 z m -340.2,-206.09 v 22.688 h 22.68 v -14.566 h -8.6797 v -8.1211 z"
        id="path73"
        inkscape:connector-curvature="0"
-       style="fill-rule:evenodd" />
+       style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1" />
   </g>
 </svg>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="673"
    height="673"
    version="1.1"
    viewBox="0 0 504.75001 504.75001"
    id="svg186"
    sodipodi:docname="Wall of fire.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/BuildingIcons/Wall of fire.png"
    inkscape:export-xdpi="28.528975"
-   inkscape:export-ydpi="28.528975">
+   inkscape:export-ydpi="28.528975"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata190">
     <rdf:RDF>
@@ -25,7 +25,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,18 +37,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1848"
-     inkscape:window-height="1103"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      id="namedview188"
      showgrid="false"
      units="px"
      inkscape:zoom="0.25285714"
-     inkscape:cx="-648.58758"
+     inkscape:cx="-646.61018"
      inkscape:cy="450.84746"
-     inkscape:window-x="1352"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg186" />
+     inkscape:current-layer="svg186"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs74">
     <symbol
@@ -271,47 +271,57 @@
   </defs>
   <g
      id="g1061"
-     transform="translate(-97.625495,-27.626495)">
+     transform="translate(-97.625495,-27.626495)"
+     style="fill:#ffffff;fill-opacity:1">
     <path
        d="m 98,459.2 h 162.4 v 72.801 H 98 Z"
        id="path76"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="m 271.6,459.2 h 156.8 v 72.801 H 271.6 Z"
        id="path78"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="M 439.6,459.2 H 602 v 72.801 H 439.6 Z"
        id="path80"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="m 529.2,375.2 h 72.801 v 72.801 H 529.2 Z"
        id="path82"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="M 361.2,375.2 H 518 v 72.801 H 361.2 Z"
        id="path84"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="M 187.6,375.2 H 350 v 72.801 H 187.6 Z"
        id="path86"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="m 98,375.2 h 78.398 v 72.801 H 98 Z"
        id="path88"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="m 98,291.2 h 162.4 v 72.801 H 98 Z"
        id="path90"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="m 271.6,291.2 h 156.8 v 72.801 H 271.6 Z"
        id="path92"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="M 439.6,364 H 602 V 291.199 H 439.6 Z M 602,246.4 c 0,-28 -28,-39.199 -28,-39.199 16.801,28 -11.199,33.602 -11.199,33.602 0,0 -22.398,0 -22.398,-28 0,-50.398 44.801,-78.398 44.801,-78.398 -67.199,0 -78.398,78.398 -84,95.199 -5.6016,16.801 -22.398,22.398 -22.398,22.398 -22.398,0 -33.602,-11.199 -33.602,-28 0,-16.801 11.199,-28 11.199,-28 0,0 39.199,-44.801 39.199,-89.602 0,-50.398 -50.398,-78.398 -50.398,-78.398 22.398,28 22.398,39.199 22.398,67.199 0,28 -33.602,56 -50.398,72.801 -16.801,16.801 -22.398,44.801 -22.398,44.801 0,0 -5.6016,11.199 -16.801,11.199 -11.199,0 -33.602,-5.6016 -33.602,-33.602 0,-28.0004 16.801,-44.801 16.801,-44.801 0,0 16.801,-11.199 16.801,-50.398 -0.004,-39.199 -50.402,-56 -50.402,-56 0,0 22.398,11.199 22.398,44.801 0,33.602 -22.398,28 -22.398,28 0,0 -11.199,0 -11.199,-11.199 0,-11.199 5.6016,-16.801 5.6016,-16.801 -22.398,0 -33.602,22.398 -33.602,33.602 0,11.199 5.6016,22.398 5.6016,22.398 0,0 11.199,11.199 11.199,28 0,22.398 -16.801,28 -28,28 -11.199,0 -28,-11.199 -28,-28 0,-16.801 11.199,-33.602 11.199,-33.602 -33.602,11.199 -39.199,39.199 -39.199,39.199 0,0 -5.6016,22.398 5.6016,39.199 11.199,16.801 11.199,28 11.199,33.602 0,5.6016 -5.6016,11.199 -16.801,11.199 -11.1994,0 -11.199,-11.199 -11.199,-11.199 0,0 0,-5.6016 5.6016,-16.801 7.5156,-15.031 -11.199,-22.398 -11.199,-22.398 5.6016,28 -22.398,28 -22.398,28 0,0 -28,-5.6016 -28,-28 0,-22.398 11.199,-28 11.199,-28 0,0 22.398,-16.801 22.398,-39.199 0,-33.602 -28,-44.801 -28,-44.801 11.199,11.199 11.199,16.801 11.199,28 0,11.199 -39.199,39.199 -39.199,39.199 0,0 -33.602,16.801 -33.602,56 0,39.199 33.602,61.602 33.602,61.602 h 453.6 c -0.008,0 16.793,-5.6016 16.793,-33.602 z"
        id="path94"
        inkscape:connector-curvature="0"
-       style="fill-rule:evenodd" />
+       style="fill-rule:evenodd;fill:#ffffff;fill-opacity:1" />
   </g>
 </svg>
