@@ -1,41 +1,41 @@
 [{
-	"name": "Logicians",
-	"leaderName": "The logician",
-	"adjective": ["Logician", "Logicians"],
-	"startBias": ["Snow"],
-	"preferredVictoryType": "Scientific",
+    "name": "Logicians",
+    "leaderName": "The logician",
+    "adjective": ["Logician", "Logicians"],
+    "startBias": ["Snow"],
+    "preferredVictoryType": "Scientific",
 
-	"declaringWar": "You have broken our logic. You will pay for this!",
-	"attacked": "You dare to scratch the logic?",
-	"defeated": "How could our logic be defeated? Logic is supposed to be invincible!",
-	"introduction": "Will you stand up to our logic?",
+    "declaringWar": "You have broken our logic. You will pay for this!",
+    "attacked": "You dare to scratch the logic?",
+    "defeated": "How could our logic be defeated? Logic is supposed to be invincible!",
+    "introduction": "Will you stand up to our logic?",
 
-	"neutralHello": "How are you doing?",
-	"neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
-	"neutralNo": [
+    "neutralHello": "How are you doing?",
+    "neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
+    "neutralNo": [
         "Our logic does not allow this.",
-		"This is against our logic.",
-		"This is a violation of our logic.",
-		"We do not intend to make a violation of logic."],
-	"neutralYes": [
+        "This is against our logic.",
+        "This is a violation of our logic.",
+        "We do not intend to make a violation of logic."],
+    "neutralYes": [
         "This is also in line with our logic.",
         "Yes, this is what our logic allows."],
 
-	"hateHello": "What do you want now?",
-	"hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
-	"hateNo": [
+    "hateHello": "What do you want now?",
+    "hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
+    "hateNo": [
         "You want us to go against logic?",
         "Very funny. Now back to serious things."],
-	"hateYes": [
+    "hateYes": [
         "Congratulations! You have convinced my logic.",
         "If it is right according to logic, I do it."],
 
-	"afterPeace": "It's nice that we are following the path of logic again.",
-	"tradeRequest": "How about a trade?",
+    "afterPeace": "It's nice that we are following the path of logic again.",
+    "tradeRequest": "How about a trade?",
 
-	"outerColor": [16, 16, 16],
-	"innerColor": [255, 200, 200],
-	"uniques": [
+    "outerColor": [16, 16, 16],
+    "innerColor": [255, 200, 200],
+    "uniques": [
         // Bonus
         "[+5]% combat bonus for units fighting in [Foreign Land]",
         "Defense bonus for units fighting in [Friendly Land]",
@@ -63,7 +63,7 @@
         "Enables [Worker] units to enter ocean tiles <during a Golden Age>",
         "Enables [Xue] units to enter ocean tiles <during a Golden Age>"
     ],
-	"cities": [
+    "cities": [
         "Logic Hub",
         "De Morgan",
         "Zripsas",
