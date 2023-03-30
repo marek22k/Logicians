@@ -3,7 +3,7 @@
 		"name": "Wall of fire",
 		"uniqueTo": "Logicians",
 
-		"maintenance": 3,
+		"maintenance": 2,
 		"happiness": 1,
 		"cityStrength": 5,
         "cityHealth": 5,
