@@ -56,12 +56,16 @@
         "Receive free [Xue] when you discover [Agriculture]",
 
         // Settler and Worker bonus
-        "[-90]% maintenance costs <for [Settler] units>",
-        "Defense bonus <for [Settler] units>",
-        "[+1] Movement <for [Settler] units>",
-        "Enables [Settler] units to enter ocean tiles <during a Golden Age>",
-        "Enables [Worker] units to enter ocean tiles <during a Golden Age>",
-        "Enables [Xue] units to enter ocean tiles <during a Golden Age>"
+        "[-90]% maintenance costs <for [Firefly] units>",
+        "Defense bonus <for [Firefly] units>",
+        "[+1] Movement <for [Firefly] units>",
+        "Enables [Firefly] units to enter ocean tiles <during a Golden Age>",
+        "Enables [Yumi] units to enter ocean tiles <during a Golden Age>",
+        "Enables [Xue] units to enter ocean tiles <during a Golden Age>",
+
+        // Not implemented
+        "Enables [Xue] units to enter coastal tiles <during a Golden Age>"
+        // see https://github.com/yairm210/Unciv/issues/3242#issuecomment-1490640999
     ],
     "cities": [
         "Logic Hub",
