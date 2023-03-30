@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Wall of fire",
+		"uniqueTo": "Logicians",
+
+		"maintenance": 3,
+		"happiness": 1,
+		"cityStrength": 5,
+        "cityHealth": 5,
+
+		"requiredTech": "Construction",
+        "requiredBuilding": "Monument",
+
+		"uniques": [
+            "Free [Military] appears",
+            "Cannot be purchased",
+            "Unsellable",
+            "Destroyed when the city is captured",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [3] population"],
+
+		"cost": 85
+	},
+
+    // Nation wonders
+    {
+		"name": "Community Food Center",
+		"uniqueTo": "Logicians",
+
+		"requiredTech": "Civil Service",
+        "requiredBuilding": "Monument",
+
+		"happiness": 2,
+        "food": 2,
+		"culture": 1,
+        "faith": -1,
+
+		"uniques": [
+            "Cannot be purchased",
+            "Destroyed when the city is captured",
+            "Free Technology"],
+        
+		"isNationalWonder": true,
+        "cost": 125
+	}
+]

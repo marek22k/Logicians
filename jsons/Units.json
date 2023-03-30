@@ -1,0 +1,271 @@
+[
+    // Worker
+    {
+		"name": "Yumi",
+		"unitType": "Civilian",
+        "replaces": "Worker",
+        "uniqueTo": "Logicians",
+
+		"uniques": [
+            "Can build [Land] improvements on tiles",
+            "Automation is a primary action"],
+
+		"movement": 2,
+
+		"cost": 65
+	},
+
+    // Scout
+    {
+		"name": "Xue",
+		"unitType": "Scout",
+        "replaces": "Scout",
+        "uniqueTo": "Logicians",
+
+		"strength": 4,
+		"movement": 2,
+
+        "uniques": ["May capture killed [{Civilian} {Land}] units"],
+
+		"attackSound": "nonmetalhit",
+		"promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
+		"cost": 20
+    },
+
+    // Great Units
+    {
+        "name": "Wilber",
+		"unitType": "Civilian",
+        "replaces": "Great Artist",
+        "uniqueTo": "Logicians",
+
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Great Person - [Culture]",
+            "Unbuildable",
+            "Uncapturable"],
+
+		"movement": 2
+    },
+    {
+		"name": "Kernel",
+		"unitType": "Civilian",
+        "replaces": "Great General",
+        "uniqueTo": "Logicians",
+
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "[+5]% Defense bonus for [All] units within [2] tiles",
+            "[+10]% Defense bonus for [Civilian] units within [3] tiles",
+			"Great Person - [War]",
+            "Unbuildable",
+            "Uncapturable"],
+
+		"movement": 2
+    },
+
+    // Sword 1
+    {
+        "name": "Slonik",
+		"unitType": "Sword",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Animal Husbandry",
+		"obsoleteTech": "Horseback Riding",
+		"upgradesTo": "Mastodon",
+
+		"uniques" : [
+            "Can move immediately once bought",
+            "May upgrade to [Mastodon] through ruins-like effects",
+            "May capture killed [Land] units"],
+
+        "strength": 9,
+        "movement": 2,
+
+        "attackSound": "nonmetalhit",
+        "cost": 40
+    },
+    {
+        "name": "Mastodon",
+		"unitType": "Mounted",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Horseback Riding",
+		"obsoleteTech": "Archaeology",
+		"upgradesTo": "Dino",
+
+		"uniques" : [
+            "Can move immediately once bought",
+            "May capture killed [Land] units"],
+
+        "hurryCostModifier": 5,
+        "strength": 14,
+        "movement": 3,
+
+        "attackSound": "nonmetalhit",
+        "cost": 70
+    },
+    {
+        "name": "Dino",
+		"unitType": "Mounted",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Archaeology",
+		//"obsoleteTech": "Metal Casting",
+		//"upgradesTo": "Swordsman",
+
+		"uniques" : [
+            "Can move immediately once bought",
+            "May capture killed [Land] units"],
+
+
+        "hurryCostModifier": 10,
+        "strength": 35,
+        "movement": 3,
+
+        "attackSound": "nonmetalhit",
+        "cost": 215
+    },
+
+    // Water units
+    {
+        "name": "Ferris",
+		"unitType": "Melee Water",
+        "replaces": "Trireme",
+        "uniqueTo": "Logicians",
+
+		"requiredTech": "Sailing",
+        "obsoleteTech": "Astronomy",
+		"upgradesTo": "Dolphin",
+
+		"uniques" : [
+            "Cannot enter ocean tiles",
+            "Can move immediately once bought"],
+
+        "strength": 10,
+        "movement": 4,
+
+        "attackSound": "nonmetalhit",
+        "cost": 40
+    },
+    {
+        "name": "Dolphin",
+		"unitType": "Melee Water",
+        "replaces": "Caravel",
+        "uniqueTo": "Logicians",
+
+		"requiredTech": "Astronomy",
+        "obsoleteTech": "Steam Power",
+		"upgradesTo": "Sakila",
+
+		"uniques" : [
+            "Can move immediately once bought",
+            "May withdraw before melee ([80]%)",
+            "[+1] Sight"],
+
+        "hurryCostModifier": 20,
+        "strength": 25,
+        "movement": 4,
+
+        "attackSound": "cannon",
+        "cost": 115
+    },
+    {
+        "name": "Sakila",
+		"unitType": "Melee Water",
+        "replaces": "Ironclad",
+        "uniqueTo": "Logicians",
+
+		"requiredTech": "Steam Power",
+        "obsoleteTech": "Combustion",
+		"upgradesTo": "Gooey",
+
+		"uniques" : [
+            "Can move immediately once bought",
+            "May withdraw before melee ([80]%)",
+            "[+33]% Strength <vs cities>",
+            "Double movement in [Coast]",
+            "[+1] Sight"],
+
+        "strength": 25,
+        "movement": 4,
+
+        "attackSound": "shipguns",
+        "cost": 240
+    },
+    {
+        "name": "Gooey",
+		"unitType": "Melee Water",
+        "replaces": "Destroyer",
+        "uniqueTo": "Logicians",
+
+		"requiredTech": "Combustion",
+
+		"uniques" : [
+            "Can move immediately once bought",
+            "May withdraw before melee ([80]%)",
+            "[+33]% Strength <vs cities>",
+            "Double movement in [Coast]",
+            "Can see invisible [Submarine] units",
+            "[40]% chance to intercept air attacks",
+            "[+100]% Strength <vs [Submarine] units>",
+            "[+1] Sight"],
+
+        "strength": 60,
+        "interceptRange": 2,
+        "movement": 6,
+
+        "attackSound": "shipguns",
+        "cost": 365
+    },
+
+    // Water 2
+    {
+        "name": "Moby",
+		"unitType": "Ranged Water",
+        "uniqueTo": "Logicians",
+
+		"requiredTech": "Navigation",
+        "obsoleteTech": "Electronics",
+		"upgradesTo": "Improved Moby",
+
+		"uniques" : [
+            "[1] additional attacks per turn",
+            "Can move immediately once bought",
+            "Can carry [1] [Missile] units",
+            "Can carry [2] [Air] units"],
+
+        "strength": 15,
+		"rangedStrength": 30,
+        "range": 3,
+        "movement": 6,
+
+        "attackSound": "cannon",
+        "cost": 180
+    },
+    {
+        "name": "Improved Moby",
+		"unitType": "Ranged Water",
+        "uniqueTo": "Logicians",
+
+		"requiredTech": "Electronics",
+
+		"uniques" : [
+            "[1] additional attacks per turn",
+            "Can move immediately once bought",
+            "Can carry [2] [Missile] units",
+            "Can carry [2] [Air] units",
+            "Can carry [1] extra [Nuclear Weapon] units"],
+
+        "strength": 30,
+		"rangedStrength": 50,
+        "range": 3,
+        "movement": 6,
+
+        "attackSound": "shipguns",
+        "cost": 370
+    }
+]

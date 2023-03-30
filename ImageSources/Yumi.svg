@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 412.99999 413"
+   version="1.1"
+   id="svg72"
+   sodipodi:docname="Yumi.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="413"
+   height="413"
+   inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+   inkscape:export-xdpi="46.489105"
+   inkscape:export-ydpi="46.489105">
+  <metadata
+     id="metadata76">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1103"
+     id="namedview74"
+     showgrid="false"
+     inkscape:zoom="12.940606"
+     inkscape:cx="163.76772"
+     inkscape:cy="166.40417"
+     inkscape:window-x="1352"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs10">
+    <style
+       id="style2">.cls-1,.cls-9{fill:#323333;}.cls-1{filter:url(#luminosity-invert);}.cls-2{isolation:isolate;}.cls-3{fill:#e95d28;}.cls-4{fill:#e65211;}.cls-5{fill:#3b3735;}.cls-6{fill:#221f1c;}.cls-7{fill:#f7f6f7;}.cls-8{fill:#d9481e;}.cls-10{mask:url(#mask);}.cls-11{mix-blend-mode:multiply;}.cls-12{fill:#fff;}</style>
+    <filter
+       id="luminosity-invert"
+       filterUnits="userSpaceOnUse"
+       style="color-interpolation-filters:sRGB">
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"
+         id="feColorMatrix4" />
+    </filter>
+    <mask
+       id="mask"
+       x="77.68"
+       y="209.42"
+       width="60.54"
+       height="55.03"
+       maskUnits="userSpaceOnUse">
+      <path
+         class="cls-1"
+         d="m 83,235.45 c 0,0 9,-15.45 24.4,-12.39 14.19,2.82 17.89,19.21 17.89,19.21 l 12.93,-23 -49.66,-9.82 -10.88,15 z"
+         id="path7"
+         inkscape:connector-curvature="0"
+         style="fill:#323333;filter:url(#luminosity-invert)" />
+    </mask>
+  </defs>
+  <g
+     style="isolation:isolate"
+     id="Layer_1"
+     data-name="Layer 1"
+     transform="translate(0,0.33999634)">
+    <path
+       class="cls-6"
+       d="m 144.88146,43.493471 c 0,0 11.52,-5.33 56.68,-6.16 45.17,-0.09 56.78,5 56.78,5 22.87,8.32 29.16,25.2 30.44,37.84 0.1,-1.25 0.15,-2.45 0.16,-3.61 -0.47,-13.28 -5.62,-33.33 -30.69,-42.75 0,0 -11.61,-5.27 -56.78,-5.19 -45.16,0.85 -56.67,6.35 -56.67,6.35 -24.86,10 -29.63,30.11 -29.83,43.4 0,1.15 0.12,2.36 0.25,3.61 1,-12.68 7,-29.68 29.66,-38.47"
+       id="path24"
+       inkscape:connector-curvature="0"
+       style="fill:#221f1c"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <path
+       class="cls-3"
+       d="m 275.88146,8.5434708 c 0,0 -15.29,-8.42 -74.72,-8.42 -59.41,1.22 -74.55,10.0000002 -74.55,10.0000002 -32.659999,15.69 -38.889999,47.81 -39.109999,68.97 0.66,21.149999 7.53,53.099999 40.519999,68.199999 0,0 15.32,8.42 74.74,8.42 59.41,-1.22 74.53,-10 74.53,-10 32.66,-15.77 38.87,-47.849999 39.09,-68.999999 -0.65,-21.15 -7.52,-53.1 -40.5,-68.2000002"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       class="cls-4"
+       d="m 276.18146,8.2334708 c 0,0 -15.29,-8.42 -74.71,-8.42 l 1.59,155.5899992 c 59.42,-1.22 74.53,-10 74.53,-10 32.67,-15.77 38.87,-47.839999 39.09,-68.999999 -0.65,-21.15 -7.52,-53.1 -40.5,-68.2000002"
+       id="path14"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       class="cls-4"
+       d="m 88.781461,51.863471 c 0,0 -7.18,17.53 -1.37,45.35 0,0 -15.18,-1.07 -15.36,-3.52 0,0 -9.8,-14.91 -0.39,-37.67 0,0 1.06,-1.85 17.12,-4.16"
+       id="path16"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       class="cls-4"
+       d="m 314.78146,51.343471 c 0,0 7.53,17.39 2.31,45.31 0,0 15.14,-1.38 15.27,-3.83 0,0 9.49,-15.11 -0.39,-37.67 0,0 -1.09,-1.83 -17.19,-3.81"
+       id="path18"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       class="cls-5"
+       d="m 283.81146,55.943471 a 50.37,50.37 0 0 1 5.11,20.93 c -0.19,13.29 -5,33.439999 -29.8,43.389999 0,0 -11.5,5.51 -56.66,6.35 -45.17,0.08 -56.8,-5.18 -56.8,-5.18 -25.05,-9.44 -30.23,-29.489999 -30.7,-42.779999 a 50.48,50.48 0 0 1 4.68,-21 z"
+       id="path20"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <path
+       class="cls-5"
+       d="m 284.26146,97.593471 a 50.42,50.42 0 0 0 4.68,-21 c -0.46,-13.31 -5.62,-33.36 -30.69,-42.78 0,0 -11.61,-5.27 -56.78,-5.19 -45.16,0.85 -56.68,6.36 -56.68,6.36 -24.84,9.92 -29.62,30.07 -29.82,43.37 a 50.59,50.59 0 0 0 5.12,20.93 z"
+       id="path22"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <path
+       class="cls-7"
+       d="m 262.15146,78.753471 a 14.29,14.29 0 1 1 -13.83,-14.7 14.3,14.3 0 0 1 13.87,14.7"
+       id="path28"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       class="cls-7"
+       d="m 172.67146,78.753471 a 14.3,14.3 0 1 1 -13.88,-14.7 14.31,14.31 0 0 1 13.88,14.7"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       class="cls-7"
+       d="m 184.13146,94.163471 c 2.14,8.999999 9.26,15.629999 17.71,15.629999 8.45,0 15.56,-6.61 17.71,-15.609999 z"
+       id="path32"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1" />
+    <g
+       id="g1097">
+      <path
+         inkscape:export-ydpi="46"
+         inkscape:export-xdpi="46"
+         inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path34"
+         d="m 293.45146,262.66347 c -1,12.73 -1.84,25.5 -3.58,38.14 -3.75,27.14 -10.11,53.6 -25.28,76.93 -13.55,20.83 -31.52,34.26 -57.91,34.74 -0.56,-8.19 -0.46,-16.38 -0.56,-24.57 -0.91,-69.7 -2.32,-139.38 -3.51,-209.08 -0.07,-3.66 -0.07,-1.75 -0.22,-10.55 a 320.91,320.91 0 0 1 81.83,7.94 c 5.21,1.16 6.71,1.59 8.15,9.15 l 1.63,39.71 z"
+         class="cls-8" />
+      <path
+         inkscape:export-ydpi="46"
+         inkscape:export-xdpi="46"
+         inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+         style="fill:#000000;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path36"
+         d="m 115.40146,265.86347 c 1.42,12.69 2.75,25.42 5,38 4.72,27 12,53.2 28,76 14.28,20.33 32.72,33.11 59.11,32.63 0.27,-8.2 -0.12,-16.38 -0.31,-24.57 -1.61,-69.68 -2.69,-139.38 -4,-209.07 -0.07,-3.66 0,-1.75 -0.16,-10.55 a 320.05,320.05 0 0 0 -81.52,10.84 c -5.17,1.34 -6.65,1.82 -7.82,9.43 l -0.2,39.74 z"
+         class="cls-3" />
+    </g>
+    <circle
+       class="cls-9"
+       cx="165.91145"
+       cy="242.47348"
+       r="21.780001"
+       id="circle38"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <path
+       class="cls-12"
+       d="m 162.25146,234.73347 v 0 a 8.47,8.47 0 0 1 11.92,6.53 v 0 0.34 l 4.29,-0.07 -0.06,-0.86 v 0 a 12.74,12.74 0 0 0 -17.93,-9.86 v 0 l -0.77,0.4 2.24,3.64 z"
+       id="path46"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <path
+       class="cls-12"
+       d="m 161.15146,249.54347 -0.3,-0.21 v 0 a 8.51,8.51 0 0 1 -3.53,-6.73 c 0,-0.32 0,-0.66 0,-1 a 8.44,8.44 0 0 1 3.23,-5.87 l 0.29,-0.18 -2.19,-3.67 -0.74,0.48 v 0 a 12.6,12.6 0 0 0 -4.85,8.81 12.21,12.21 0 0 0 -0.06,1.48 12.8,12.8 0 0 0 5.37,10.16 v 0 l 0.73,0.48 z"
+       id="path48"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <path
+       class="cls-12"
+       d="m 174.21146,242.81347 v 0.49 a 8.46,8.46 0 0 1 -8.26,7.6 c -0.33,0 -0.66,0 -1,0 a 8.33,8.33 0 0 1 -2.37,-0.59 v 0 l -0.31,-0.17 -2.06,3.76 0.78,0.38 v 0 a 12.71,12.71 0 0 0 3.56,0.87 12.13,12.13 0 0 0 1.47,0.06 12.74,12.74 0 0 0 12.45,-11.51 v -0.06 0 -0.86 z"
+       id="path50"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <circle
+       class="cls-12"
+       cx="173.02145"
+       cy="229.35347"
+       r="3.1300001"
+       id="circle52"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <path
+       class="cls-9"
+       d="m 173.08146,232.91347 a 3.56,3.56 0 1 1 3.49,-3.63 3.57,3.57 0 0 1 -3.49,3.63 z m -0.11,-6.27 a 2.71,2.71 0 1 0 2.75,2.66 2.71,2.71 0 0 0 -2.75,-2.66 z"
+       id="path54"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <circle
+       class="cls-12"
+       cx="151.32146"
+       cy="242.55348"
+       r="3.1300001"
+       id="circle56"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <path
+       class="cls-9"
+       d="m 151.39146,246.11347 a 3.56,3.56 0 1 1 3.49,-3.62 3.56,3.56 0 0 1 -3.49,3.62 z m -0.07,-6.3 a 2.71,2.71 0 1 0 2.76,2.65 2.7,2.7 0 0 0 -2.76,-2.65 z"
+       id="path58"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <circle
+       class="cls-12"
+       cx="173.26146"
+       cy="254.91348"
+       r="3.1300001"
+       id="circle60"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       class="cls-9"
+       d="m 173.32146,258.46347 a 3.56,3.56 0 1 1 3.5,-3.65 3.56,3.56 0 0 1 -3.5,3.65 z m -0.12,-6.26 a 2.71,2.71 0 1 0 2.76,2.66 2.7,2.7 0 0 0 -2.75,-2.66 z"
+       id="path62"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1" />
+    <ellipse
+       class="cls-8"
+       cx="126.64616"
+       cy="375.47302"
+       rx="22.07"
+       ry="59.029999"
+       transform="rotate(-33.58)"
+       id="ellipse64"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+    <ellipse
+       class="cls-3"
+       cx="-153.89789"
+       cy="212.89595"
+       rx="59.029999"
+       ry="22.07"
+       transform="rotate(-57.96)"
+       id="ellipse66"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-filename="/home/RRZN/kuethe/Downloads/UnCiv/mods/Logicians/Images/UnitIcons/Yumi.png"
+       inkscape:export-xdpi="46"
+       inkscape:export-ydpi="46" />
+  </g>
+</svg>
