@@ -3,7 +3,7 @@
 This is an UnCiv mod, which adds a civilization and corresponding units and buildings. When playing against other players, this mod may seem unfair to others! The units and buildings were inspired by real programs or projects (see Inspiration.md). It is still a work in progress.
 
 ## Hosting
-The repository that contains the mod is developed and maintained on Codeberg. However, since UnCiv needs a copy of the mod on GitHub to show up in the list, there is a copy on GitHub.
+The repository that contains the mod is developed and maintained on [Codeberg](https://codeberg.org/mark22k/UnCiv-Logicians). However, since UnCiv needs a copy of the mod on [GitHub](https://github.com/marek22k/Logicians) to show up in the list, there is a copy on GitHub.
 
 ## Note about the images
 The images are all black and white, because UnCiv otherwise makes them black and white itself. Therefore some pictures have been changed enormously.
