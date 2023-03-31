@@ -35,6 +35,8 @@
 | Free deer | Marcus Moeller | [Libreboot logo license](https://libreboot.org/logo-license.html), [Libreboot logo](https://av.libreboot.org/logo/) |
 | Gnu | Phạm Thanh Loc | [Noun Project](https://thenounproject.com/icon/wildebeest-3386546/) |
 | Angry Dino | Joachim Hauser | [Noun Project](https://thenounproject.com/icon/angry-dino-739416/) |
+| Duke | ??? | [OpenJDK Duke Gallery](https://web.archive.org/web/20220630094932/https://wiki.openjdk.org/display/duke/Gallery) |
+| Experimental being | fahmionline | [Noun Project](https://thenounproject.com/icon/dna-5632736/) |
 
 ## Software
 

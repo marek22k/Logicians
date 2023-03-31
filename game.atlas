@@ -6,49 +6,49 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Archive
   rotate: false
-  xy: 4, 736
+  xy: 4, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Community Food Center
   rotate: false
-  xy: 4, 528
+  xy: 212, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Intelligence service
   rotate: false
-  xy: 212, 320
+  xy: 628, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Private military company
   rotate: false
-  xy: 420, 320
+  xy: 836, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Self-help group
   rotate: false
-  xy: 420, 112
+  xy: 836, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Spy Training Center
   rotate: false
-  xy: 1044, 736
+  xy: 836, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Wall of fire
   rotate: false
-  xy: 628, 112
+  xy: 1044, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -60,107 +60,142 @@ NationIcons/Logicians
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Dino
+UnitIcons/Angry Dino
   rotate: false
-  xy: 212, 736
+  xy: 4, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Dolphin
+UnitIcons/Dino
   rotate: false
   xy: 4, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Ferris
+UnitIcons/Dolphin
   rotate: false
   xy: 212, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Firefly
+UnitIcons/Duke
   rotate: false
   xy: 420, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Gooey
+UnitIcons/Experimental being
   rotate: false
   xy: 4, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Kernel
+UnitIcons/Ferris
+  rotate: false
+  xy: 212, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Firefly
   rotate: false
   xy: 420, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Mastodon
+UnitIcons/Gnu
   rotate: false
   xy: 628, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Moby
+UnitIcons/Gooey
   rotate: false
   xy: 212, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Religious architect
+UnitIcons/Improved Moby
   rotate: false
-  xy: 628, 528
+  xy: 420, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Sakila
+UnitIcons/Kernel
   rotate: false
   xy: 836, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Slonik
+UnitIcons/Mastodon
+  rotate: false
+  xy: 420, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Moby
   rotate: false
   xy: 628, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Spy
+UnitIcons/Religious architect
   rotate: false
-  xy: 836, 528
+  xy: 1044, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Wilber
+UnitIcons/Sakila
   rotate: false
-  xy: 836, 320
+  xy: 628, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Xue
+UnitIcons/Slonik
   rotate: false
   xy: 1044, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Yumi
+UnitIcons/Spy
   rotate: false
   xy: 1252, 736
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Wilber
+  rotate: false
+  xy: 1252, 528
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Xue
+  rotate: false
+  xy: 1460, 736
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Yumi
+  rotate: false
+  xy: 1044, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
