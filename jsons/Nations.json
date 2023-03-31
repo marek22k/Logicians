@@ -68,7 +68,10 @@
         "Enables [Spy] units to enter ocean tiles <during a Golden Age>",
 
         // Not implemented
-        "Enables [Xue] units to enter coastal tiles <during a Golden Age>"
+        "Enables [Firefly] units to enter coastal tiles <during a Golden Age>",
+        "Enables [Yumi] units to enter coastal tiles <during a Golden Age>",
+        "Enables [Xue] units to enter coastal tiles <during a Golden Age>",
+        "Enables [Spy] units to enter coastal tiles <during a Golden Age>"
         // see https://github.com/yairm210/Unciv/issues/3242#issuecomment-1490640999
     ],
     "cities": [
