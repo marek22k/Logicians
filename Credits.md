@@ -32,6 +32,9 @@
 | Private military company | Gan Khoon Lay | [Noun Project](https://thenounproject.com/icon/rich-ceo-with-personal-helicopter-1258242/) |
 | Archive | Bakunetsu Kaito | [Noun Project](https://thenounproject.com/icon/cave-1842205/) | Intelligence service | TNS | [Noun Project](https://thenounproject.com/icon/research-152501/) |
 | Spy | Luiz Carvalho | [Noun Project](https://thenounproject.com/icon/spy-2277455/) |
+| Free deer | Marcus Moeller | [Libreboot logo license](https://libreboot.org/logo-license.html), [Libreboot logo](https://av.libreboot.org/logo/) |
+| Gnu | Phạm Thanh Loc | [Noun Project](https://thenounproject.com/icon/wildebeest-3386546/) |
+| Angry Dino | Joachim Hauser | [Noun Project](https://thenounproject.com/icon/angry-dino-739416/) |
 
 ## Software
 

@@ -1,47 +1,47 @@
 [
     // Worker
     {
-		"name": "Yumi",
-		"unitType": "Civilian",
+        "name": "Yumi",
+        "unitType": "Civilian",
         "replaces": "Worker",
         "uniqueTo": "Logicians",
 
-		"uniques": [
+        "uniques": [
             "Can build [Land] improvements on tiles",
             "Automation is a primary action"],
 
-		"movement": 2,
+        "movement": 2,
 
-		"cost": 65
-	},
+        "cost": 65
+    },
 
     // Scout
     {
-		"name": "Xue",
-		"unitType": "Scout",
+        "name": "Xue",
+        "unitType": "Scout",
         "replaces": "Scout",
         "uniqueTo": "Logicians",
 
         "upgradesTo": "Spy",
 
-		"strength": 4,
-		"movement": 2,
+        "strength": 4,
+        "movement": 2,
 
         "uniques": ["May capture killed [{Civilian} {Land}] units"],
 
-		"attackSound": "nonmetalhit",
-		"promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
-		"cost": 20
+        "attackSound": "nonmetalhit",
+        "promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
+        "cost": 20
     },
     {
-		"name": "Spy",
-		"unitType": "Scout",
+        "name": "Spy",
+        "unitType": "Scout",
         "uniqueTo": "Logicians",
 
         "requiredTech": "Scientific Theory",
 
-		"strength": 30,
-		"movement": 3,
+        "strength": 30,
+        "movement": 3,
 
         "uniques": [
             "May capture killed [{Civilian}] units",
@@ -56,18 +56,18 @@
             "[+3]% Unhappiness from [Population] [in all cities connected to capital]",
             "[+3]% Unhappiness from [Followers of the Majority Religion] [in holy cities]"],
 
-		"attackSound": "nonmetalhit",
-		"promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
-		"cost": 350
+        "attackSound": "nonmetalhit",
+        "promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
+        "cost": 350
     },
 
     // Religious units
     {
-		"name": "Religious architect",
-		"unitType": "Civilian",
+        "name": "Religious architect",
+        "unitType": "Civilian",
         "uniqueTo": "Logicians",
 
-		"movement": 3,
+        "movement": 3,
 
         "uniques": [
             "Provides a [Cathedral] in your first [1] cities for free <by consuming this unit>",
@@ -80,18 +80,18 @@
 
         "hurryCostModifier": 100,
 
-		"cost": 106
+        "cost": 106
         
     }
 
     // Settler
     {
-		"name": "Firefly",
-		"unitType": "Civilian",
+        "name": "Firefly",
+        "unitType": "Civilian",
         "replaces": "Settler",
         "uniqueTo": "Logicians",
 
-		"movement": 3,
+        "movement": 3,
 
         "uniques": [
             "Founds a new city <by consuming this unit>",
@@ -100,119 +100,188 @@
 
         "hurryCostModifier": 20,
 
-		"cost": 106
+        "cost": 106
     },
 
     // Great Units
     {
         "name": "Wilber",
-		"unitType": "Civilian",
+        "unitType": "Civilian",
         "replaces": "Great Artist",
         "uniqueTo": "Logicians",
 
-		"uniques": [
+        "uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>",
             "Great Person - [Culture]",
             "Unbuildable",
             "Uncapturable"],
 
-		"movement": 2
+        "movement": 2
     },
     {
-		"name": "Kernel",
-		"unitType": "Civilian",
+        "name": "Kernel",
+        "unitType": "Civilian",
         "replaces": "Great General",
         "uniqueTo": "Logicians",
 
-		"uniques": [
+        "uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
             "[+5]% Defense bonus for [All] units within [2] tiles",
             "[+10]% Defense bonus for [Civilian] units within [3] tiles",
-			"Great Person - [War]",
+            "Great Person - [War]",
             "Unbuildable",
             "Uncapturable"],
 
-		"movement": 2
+        "movement": 2
     },
 
-    // Sword 1
+    // Fighter unit 1
     {
-        "name": "Slonik",
-		"unitType": "Sword",
+        "name": "Gnu",
+        "unitType": "Mounted",
         "uniqueTo": "Logicians",
 
         "requiredTech": "Animal Husbandry",
-		"obsoleteTech": "Horseback Riding",
-		"upgradesTo": "Mastodon",
+        "obsoleteTech": "Horseback Riding",
+        "upgradesTo": "Slonik",
 
-		"uniques" : [
+        "uniques" : [
+            "Can move immediately once bought",
+            "May upgrade to [Slonik] through ruins-like effects",
+            "May capture killed [Land] units"],
+
+        "strength": 10,
+        "movement": 2,
+
+        "attackSound": "nonmetalhit",
+        "cost": 45
+    },
+    {
+        "name": "Slonik",
+        "unitType": "Mounted",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Horseback Riding",
+        "obsoleteTech": "Chivalry",
+        "upgradesTo": "Mastodon",
+
+        "uniques" : [
             "Can move immediately once bought",
             "May upgrade to [Mastodon] through ruins-like effects",
             "May capture killed [Land] units"],
 
-        "strength": 9,
+        "strength": 13,
         "movement": 2,
-
-        "attackSound": "nonmetalhit",
-        "cost": 40
-    },
-    {
-        "name": "Mastodon",
-		"unitType": "Mounted",
-        "uniqueTo": "Logicians",
-
-        "requiredTech": "Horseback Riding",
-		"obsoleteTech": "Archaeology",
-		"upgradesTo": "Dino",
-
-		"uniques" : [
-            "Can move immediately once bought",
-            "May capture killed [Land] units"],
-
-        "hurryCostModifier": 5,
-        "strength": 14,
-        "movement": 3,
 
         "attackSound": "nonmetalhit",
         "cost": 70
     },
     {
-        "name": "Dino",
-		"unitType": "Mounted",
+        "name": "Mastodon",
+        "unitType": "Mounted",
         "uniqueTo": "Logicians",
 
-        "requiredTech": "Archaeology",
-		//"obsoleteTech": "Metal Casting",
-		//"upgradesTo": "Swordsman",
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Archaeology",
+        "upgradesTo": "Dino",
 
-		"uniques" : [
+        "uniques" : [
             "Can move immediately once bought",
             "May capture killed [Land] units"],
 
+        "strength": 30,
+        "movement": 2,
 
-        "hurryCostModifier": 10,
-        "strength": 35,
+        "attackSound": "nonmetalhit",
+        "cost": 130
+    },
+    {
+        "name": "Dino",
+        "unitType": "Armored",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Archaeology",
+        "obsoleteTech": "Refrigeration",
+        "upgradesTo": "Angry Dino",
+
+        "uniques" : [
+            "May upgrade to [Angry Dino] through ruins-like effects",
+            "Can move immediately once bought"],
+
+        "strength": 32,
+        "movement": 2,
+
+        "attackSound": "nonmetalhit",
+        "cost": 220
+    },
+    {
+        "name": "Angry Dino",
+        "unitType": "Armored",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Refrigeration",
+        "obsoleteTech": "Pharmaceuticals",
+        "upgradesTo": "Experimental being",
+
+        "strength": 55,
         "movement": 3,
 
         "attackSound": "nonmetalhit",
-        "cost": 215
+        "cost": 320
     },
+    {
+        "name": "Experimental being",
+        "unitType": "Armored",
+        "uniqueTo": "Logicians",
 
-    // Water units
+        "requiredTech": "Pharmaceuticals",
+        "obsoleteTech": "Mobile Tactics",
+        "upgradesTo": "Duke",
+
+        "uniques" : [
+            "May capture killed [Land] units",
+            "May capture killed [Civilian] units",
+            "May upgrade to [Duke] through ruins-like effects"],
+
+        "strength": 82,
+        "movement": 3,
+
+        "attackSound": "nonmetalhit",
+        "cost": 360
+    },
+    {
+        "name": "Duke",
+        "unitType": "Armored",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Mobile Tactics",
+
+        "uniques" : [
+            "May capture killed [Land] units",
+            "May capture killed [Civilian] units"],
+
+        "strength": 100,
+        "movement": 3,
+
+        "attackSound": "nonmetalhit",
+        "cost": 380
+    }
+
+    // Water units which replaces default ones
     {
         "name": "Ferris",
-		"unitType": "Melee Water",
+        "unitType": "Melee Water",
         "replaces": "Trireme",
         "uniqueTo": "Logicians",
 
-		"requiredTech": "Sailing",
+        "requiredTech": "Sailing",
         "obsoleteTech": "Astronomy",
-		"upgradesTo": "Dolphin",
+        "upgradesTo": "Dolphin",
 
-		"uniques" : [
+        "uniques" : [
             "Cannot enter ocean tiles",
             "Can move immediately once bought"],
 
@@ -224,15 +293,15 @@
     },
     {
         "name": "Dolphin",
-		"unitType": "Melee Water",
+        "unitType": "Melee Water",
         "replaces": "Caravel",
         "uniqueTo": "Logicians",
 
-		"requiredTech": "Astronomy",
+        "requiredTech": "Astronomy",
         "obsoleteTech": "Steam Power",
-		"upgradesTo": "Sakila",
+        "upgradesTo": "Sakila",
 
-		"uniques" : [
+        "uniques" : [
             "Can move immediately once bought",
             "May withdraw before melee ([80]%)",
             "[+1] Sight"],
@@ -246,15 +315,15 @@
     },
     {
         "name": "Sakila",
-		"unitType": "Melee Water",
+        "unitType": "Melee Water",
         "replaces": "Ironclad",
         "uniqueTo": "Logicians",
 
-		"requiredTech": "Steam Power",
+        "requiredTech": "Steam Power",
         "obsoleteTech": "Combustion",
-		"upgradesTo": "Gooey",
+        "upgradesTo": "Gooey",
 
-		"uniques" : [
+        "uniques" : [
             "Can move immediately once bought",
             "May withdraw before melee ([80]%)",
             "[+33]% Strength <vs cities>",
@@ -269,13 +338,13 @@
     },
     {
         "name": "Gooey",
-		"unitType": "Melee Water",
+        "unitType": "Melee Water",
         "replaces": "Destroyer",
         "uniqueTo": "Logicians",
 
-		"requiredTech": "Combustion",
+        "requiredTech": "Combustion",
 
-		"uniques" : [
+        "uniques" : [
             "Can move immediately once bought",
             "May withdraw before melee ([80]%)",
             "[+33]% Strength <vs cities>",
@@ -296,21 +365,21 @@
     // Water 2
     {
         "name": "Moby",
-		"unitType": "Ranged Water",
+        "unitType": "Ranged Water",
         "uniqueTo": "Logicians",
 
-		"requiredTech": "Navigation",
+        "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
-		"upgradesTo": "Improved Moby",
+        "upgradesTo": "Improved Moby",
 
-		"uniques" : [
+        "uniques" : [
             "[1] additional attacks per turn",
             "Can move immediately once bought",
             "Can carry [1] [Missile] units",
             "Can carry [2] [Air] units"],
 
         "strength": 15,
-		"rangedStrength": 30,
+        "rangedStrength": 30,
         "range": 3,
         "movement": 6,
 
@@ -319,12 +388,12 @@
     },
     {
         "name": "Improved Moby",
-		"unitType": "Ranged Water",
+        "unitType": "Ranged Water",
         "uniqueTo": "Logicians",
 
-		"requiredTech": "Electronics",
+        "requiredTech": "Electronics",
 
-		"uniques" : [
+        "uniques" : [
             "[1] additional attacks per turn",
             "Can move immediately once bought",
             "Can carry [2] [Missile] units",
@@ -332,7 +401,7 @@
             "Can carry [1] extra [Nuclear Weapon] units"],
 
         "strength": 30,
-		"rangedStrength": 50,
+        "rangedStrength": 50,
         "range": 3,
         "movement": 6,
 
