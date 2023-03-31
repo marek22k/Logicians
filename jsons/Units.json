@@ -22,6 +22,7 @@
         "replaces": "Scout",
         "uniqueTo": "Logicians",
 
+        "obsoleteTech": "Scientific Theory",
         "upgradesTo": "Spy",
 
         "strength": 4,
