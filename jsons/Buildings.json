@@ -52,6 +52,22 @@
 
 		"cost": 120
 	},
+	{
+		"name": "Spy Training Center",
+		"uniqueTo": "Logicians",
+
+		"maintenance": 1,
+        "science": 2,
+
+		"requiredTech": "Scientific Theory",
+
+		"uniques": [
+			"All newly-trained [Spy] units [in this city] receive the [Survivalism II] promotion",
+			"All newly-trained [Spy] units [in this city] receive the [Scouting II] promotion",
+            "Destroyed when the city is captured"],
+
+		"cost": 120
+	},
 
     // Nation wonders
     {
