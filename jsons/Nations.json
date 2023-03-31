@@ -49,7 +49,7 @@
 
         // Anti-Bonus
         "[+5]% City-State Influence degradation",
-        "[-10]% Faith per [20] Population [in all cities in which the majority religion is a major religion]",
+        "[-10 Faith]% per [20] Population [in all cities in which the majority religion is a major religion]",
         "[-10]% Golden Age length"
 
         // Anti Nuclear Weapn
