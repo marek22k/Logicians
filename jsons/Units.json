@@ -59,7 +59,7 @@
 
         "attackSound": "nonmetalhit",
         "promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
-        "cost": 270
+        "cost": 220
     },
 
     // Religious units
