@@ -57,7 +57,6 @@
 		"uniqueTo": "Logicians",
 
 		"maintenance": 1,
-        "science": 2,
 
 		"requiredTech": "Scientific Theory",
 
