@@ -104,8 +104,8 @@
 			"Gain a free [Walls] [in this city]",
 			"Gain a free [Castle] [in this city]",
 			"Gain a free [Arsenal] [in this city]",
-			"May buy [Military] units with [Faith] for [2] times their normal Production cost <in cities with a [Castle]>",
-			"May buy [Military] units with [Science] for [2] times their normal Production cost <in cities with a [Arsenal]>",
+			"May buy [Military] units with [Faith] for [3] times their normal Production cost <in cities with a [Castle]>",
+			"May buy [Military] units with [Science] for [3] times their normal Production cost <in cities with a [Arsenal]>",
             "Cannot be purchased",
             "Destroyed when the city is captured"],
         
