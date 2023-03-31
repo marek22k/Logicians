@@ -21,6 +21,20 @@
 
 		"cost": 85
 	},
+	{
+		"name": "Self-help group",
+		"uniqueTo": "Logicians",
+
+		"happiness": 2,
+        "cityHealth": 2,
+
+		"requiredTech": "Education",
+
+		"uniques": [
+            "Destroyed when the city is captured"],
+
+		"cost": 120
+	},
 
     // Nation wonders
     {
