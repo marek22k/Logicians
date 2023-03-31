@@ -18,23 +18,30 @@ BuildingIcons/Community Food Center
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Intelligence service
+  rotate: false
+  xy: 212, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Private military company
   rotate: false
-  xy: 212, 112
+  xy: 420, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Self-help group
   rotate: false
-  xy: 836, 736
+  xy: 420, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Wall of fire
   rotate: false
-  xy: 628, 320
+  xy: 836, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -83,63 +90,63 @@ UnitIcons/Gooey
   index: -1
 UnitIcons/Kernel
   rotate: false
-  xy: 212, 320
+  xy: 420, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mastodon
   rotate: false
-  xy: 420, 528
+  xy: 628, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Moby
   rotate: false
-  xy: 628, 736
+  xy: 212, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Religious architect
   rotate: false
-  xy: 420, 320
+  xy: 628, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sakila
   rotate: false
-  xy: 628, 528
+  xy: 836, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Slonik
   rotate: false
-  xy: 420, 112
+  xy: 628, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wilber
   rotate: false
-  xy: 836, 528
+  xy: 1044, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Xue
   rotate: false
-  xy: 1044, 736
+  xy: 628, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Yumi
   rotate: false
-  xy: 628, 112
+  xy: 836, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

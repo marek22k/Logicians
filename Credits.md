@@ -30,7 +30,7 @@
 | Self-help group | Lars Meiertoberens | [Noun Project](https://thenounproject.com/icon/self-help-4845328/) |
 | Religious architect | Amethyst Studio | [Noun Project](https://thenounproject.com/icon/architect-5295852/) |
 | Private military company | Gan Khoon Lay | [Noun Project](https://thenounproject.com/icon/rich-ceo-with-personal-helicopter-1258242/) |
-| Archive | Bakunetsu Kaito | [Noun Project](https://thenounproject.com/icon/cave-1842205/) |
+| Archive | Bakunetsu Kaito | [Noun Project](https://thenounproject.com/icon/cave-1842205/) | Intelligence service | Wibisono | [Noun Project](https://thenounproject.com/icon/spy-4750439/) |
 
 ## Software
 
