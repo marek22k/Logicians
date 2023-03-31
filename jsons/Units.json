@@ -32,6 +32,29 @@
 		"cost": 20
     },
 
+    // Religious units
+    {
+		"name": "Religious architect",
+		"unitType": "Civilian",
+        "uniqueTo": "Logicians",
+
+		"movement": 3,
+
+        "uniques": [
+            "Provides a [Cathedral] in your first [1] cities for free <by consuming this unit>",
+            "Provides a [Monastery] in your first [1] cities for free <by consuming this unit>",
+            "Provides a [Mosque] in your first [1] cities for free <by consuming this unit>",
+            "Provides a [Pagoda] in your first [1] cities for free <by consuming this unit>",
+            "Religious Unit",
+            "Unbuildable",
+            "Hidden when religion is disabled"],
+
+        "hurryCostModifier": 100,
+
+		"cost": 106
+        
+    }
+
     // Settler
     {
 		"name": "Firefly",
