@@ -1,138 +1,145 @@
 
 game.png
-size: 2048, 512
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Archive
+  rotate: false
+  xy: 4, 736
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Community Food Center
   rotate: false
-  xy: 4, 212
+  xy: 4, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Private military company
   rotate: false
-  xy: 836, 4
+  xy: 212, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Self-help group
   rotate: false
-  xy: 1252, 212
+  xy: 836, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Wall of fire
   rotate: false
-  xy: 1460, 212
+  xy: 628, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Logicians
   rotate: false
-  xy: 1876, 312
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dino
   rotate: false
-  xy: 4, 4
+  xy: 212, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dolphin
   rotate: false
-  xy: 212, 212
+  xy: 4, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ferris
   rotate: false
-  xy: 212, 4
+  xy: 212, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Firefly
   rotate: false
-  xy: 420, 212
+  xy: 420, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Gooey
   rotate: false
-  xy: 420, 4
+  xy: 4, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kernel
   rotate: false
-  xy: 628, 212
+  xy: 212, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mastodon
   rotate: false
-  xy: 628, 4
+  xy: 420, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Moby
   rotate: false
-  xy: 836, 212
+  xy: 628, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Religious architect
   rotate: false
-  xy: 1044, 212
+  xy: 420, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sakila
   rotate: false
-  xy: 1044, 4
+  xy: 628, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Slonik
   rotate: false
-  xy: 1252, 4
+  xy: 420, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wilber
   rotate: false
-  xy: 1460, 4
+  xy: 836, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Xue
   rotate: false
-  xy: 1668, 212
+  xy: 1044, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Yumi
   rotate: false
-  xy: 1668, 4
+  xy: 628, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

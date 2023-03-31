@@ -34,7 +34,24 @@
             "Destroyed when the city is captured"],
 
 		"cost": 120
-	}
+	},
+	{
+		"name": "Archive",
+		"uniqueTo": "Logicians",
+
+		"maintenance": 1,
+        "science": 2,
+
+		"requiredTech": "Replaceable Parts",
+
+		"uniques": [
+			"Must be next to [Mountain]",
+			"Must be next to [Snow]",
+			"[+1 Science] per [2] population [in this city]",
+            "Destroyed when the city is captured"],
+
+		"cost": 120
+	},
 
     // Nation wonders
     {
