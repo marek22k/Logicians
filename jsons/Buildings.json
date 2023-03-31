@@ -34,7 +34,7 @@
             "Destroyed when the city is captured"],
 
 		"cost": 120
-	},
+	}
 
     // Nation wonders
     {
@@ -53,6 +53,55 @@
             "Cannot be purchased",
             "Destroyed when the city is captured",
             "Free Technology"],
+        
+		"isNationalWonder": true,
+        "cost": 125
+	},
+    {
+		"name": "Private military company",
+		"uniqueTo": "Logicians",
+
+		"requiredTech": "Military Science",
+
+		"happiness": -1,
+        "food": -1,
+
+		"uniques": [
+			"[+10] units cost no maintenance",
+			"[-5]% Culture cost of natural border growth [in this city]",
+			"Gain a free [Walls] [in this city]",
+			"Gain a free [Castle] [in this city]",
+			"Gain a free [Arsenal] [in this city]",
+			"May buy [Military] units with [Faith] for [2] times their normal Production cost <in cities with a [Castle]>",
+			"May buy [Military] units with [Science] for [2] times their normal Production cost <in cities with a [Arsenal]>",
+            "Cannot be purchased",
+            "Destroyed when the city is captured"],
+        
+		"isNationalWonder": true,
+        "cost": 125
+	},
+    {
+		"name": "Intelligence service",
+		"uniqueTo": "Logicians",
+
+		"requiredTech": "Scientific Theory",
+
+		"maintenance": 2,
+		"faith": 1,
+
+		"uniques": [
+			"[-5]% Culture cost of natural border growth [in this city]",
+			"Gain a free [Walls] [in this city]",
+			"Gain a free [Castle] [in this city]",
+			"Gain a free [Arsenal] [in this city]",
+			"May buy [Military] units with [Faith] for [2] times their normal Production cost <in cities with a [Castle]>",
+			"May buy [Military] units with [Science] for [2] times their normal Production cost <in cities with a [Arsenal]>",
+
+			"Notified of new Barbarian encampments",
+			"Great General provides double combat bonus",
+			"Science gained from research agreements [+5]%",
+            "Cannot be purchased",
+            "Destroyed when the city is captured"],
         
 		"isNationalWonder": true,
         "cost": 125
