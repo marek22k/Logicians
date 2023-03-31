@@ -41,7 +41,7 @@ BuildingIcons/Self-help group
   index: -1
 BuildingIcons/Wall of fire
   rotate: false
-  xy: 836, 528
+  xy: 1044, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -130,23 +130,30 @@ UnitIcons/Slonik
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Wilber
+UnitIcons/Spy
   rotate: false
-  xy: 1044, 736
+  xy: 836, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Xue
+UnitIcons/Wilber
   rotate: false
   xy: 628, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Yumi
+UnitIcons/Xue
   rotate: false
   xy: 836, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Yumi
+  rotate: false
+  xy: 1044, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

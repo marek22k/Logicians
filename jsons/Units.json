@@ -22,6 +22,8 @@
         "replaces": "Scout",
         "uniqueTo": "Logicians",
 
+        "upgradesTo": "Spy",
+
 		"strength": 4,
 		"movement": 2,
 
@@ -30,6 +32,33 @@
 		"attackSound": "nonmetalhit",
 		"promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
 		"cost": 20
+    },
+    {
+		"name": "Spy",
+		"unitType": "Scout",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Scientific Theory",
+
+		"strength": 30,
+		"movement": 3,
+
+        "uniques": [
+            "May capture killed [{Civilian}] units",
+            "Invisible to non-adjacent units",
+            "Can see invisible [{Civilian}] units",
+            "Can see invisible [{Scout}] units",
+            "Can see invisible [{Barbarian}] units",
+            "Uncapturable",
+            "Unable to capture cities",
+            "Can move after attacking",
+            "Can enter ice tiles <during a Golden Age>",
+            "[+3]% Unhappiness from [Population] [in all cities connected to capital]",
+            "[+3]% Unhappiness from [Followers of the Majority Religion] [in holy cities]"],
+
+		"attackSound": "nonmetalhit",
+		"promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
+		"cost": 350
     },
 
     // Religious units
