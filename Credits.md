@@ -27,6 +27,8 @@
 | Logicians Nation | Arthur Shlain | [Noun Project](https://thenounproject.com/icon/logic-718608/)
 | Ferris | ??? | [rustacean.net](https://rustacean.net/) |
 | Firefly | Julián Bruno | [Success at Apache: bringing the Apache Beam firefly to life](https://news.apache.org/foundation/entry/success-at-apache-bringing-the), [Wikipedia](https://en.wikipedia.org/wiki/File:Apache_Beam_firefly_mascot.svg) |
+| Self-help group | Lars Meiertoberens | [Noun Project](https://thenounproject.com/icon/self-help-4845328/) |
+| Religious architect | Amethyst Studio | [Noun Project](https://thenounproject.com/icon/architect-5295852/) |
 
 ## Software
 
