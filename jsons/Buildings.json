@@ -1,17 +1,17 @@
 [
-	{
-		"name": "Wall of fire",
-		"uniqueTo": "Logicians",
+    {
+        "name": "Wall of fire",
+        "uniqueTo": "Logicians",
 
-		"maintenance": 2,
-		"happiness": 1,
-		"cityStrength": 5,
+        "maintenance": 2,
+        "happiness": 1,
+        "cityStrength": 5,
         "cityHealth": 5,
 
-		"requiredTech": "Construction",
+        "requiredTech": "Construction",
         "requiredBuilding": "Monument",
 
-		"uniques": [
+        "uniques": [
             "Free [Military] appears",
             "Cannot be purchased",
             "Unsellable",
@@ -19,123 +19,123 @@
             "Excess Food converted to Production when under construction",
             "Requires at least [3] population"],
 
-		"cost": 85
-	},
-	{
-		"name": "Self-help group",
-		"uniqueTo": "Logicians",
+        "cost": 85
+    },
+    {
+        "name": "Self-help group",
+        "uniqueTo": "Logicians",
 
-		"happiness": 2,
+        "happiness": 2,
         "cityHealth": 2,
 
-		"requiredTech": "Education",
+        "requiredTech": "Education",
 
-		"uniques": [
+        "uniques": [
             "Destroyed when the city is captured"],
 
-		"cost": 120
-	},
-	{
-		"name": "Archive",
-		"uniqueTo": "Logicians",
+        "cost": 120
+    },
+    {
+        "name": "Archive",
+        "uniqueTo": "Logicians",
 
-		"maintenance": 1,
+        "maintenance": 1,
         "science": 2,
 
-		"requiredTech": "Replaceable Parts",
+        "requiredTech": "Replaceable Parts",
 
-		"uniques": [
-			"Must be next to [Mountain]",
-			"Must be next to [Snow]",
-			"[+1 Science] per [2] population [in this city]",
+        "uniques": [
+            "Must be next to [Mountain]",
+            "Must be next to [Snow]",
+            "[+1 Science] per [2] population [in this city]",
             "Destroyed when the city is captured"],
 
-		"cost": 120
-	},
-	{
-		"name": "Spy Training Center",
-		"uniqueTo": "Logicians",
+        "cost": 120
+    },
+    {
+        "name": "Spy Training Center",
+        "uniqueTo": "Logicians",
 
-		"maintenance": 1,
+        "maintenance": 1,
 
-		"requiredTech": "Scientific Theory",
+        "requiredTech": "Scientific Theory",
 
-		"uniques": [
-			"All newly-trained [Spy] units [in this city] receive the [Survivalism II] promotion",
-			"All newly-trained [Spy] units [in this city] receive the [Scouting II] promotion",
+        "uniques": [
+            "All newly-trained [Spy] units [in this city] receive the [Survivalism II] promotion",
+            "All newly-trained [Spy] units [in this city] receive the [Scouting II] promotion",
             "Destroyed when the city is captured"],
 
-		"cost": 120
-	},
+        "cost": 120
+    },
 
     // Nation wonders
     {
-		"name": "Community Food Center",
-		"uniqueTo": "Logicians",
+        "name": "Community Food Center",
+        "uniqueTo": "Logicians",
 
-		"requiredTech": "Civil Service",
+        "requiredTech": "Civil Service",
         "requiredBuilding": "Monument",
 
-		"happiness": 2,
+        "happiness": 2,
         "food": 2,
-		"culture": 1,
+        "culture": 1,
         "faith": -1,
 
-		"uniques": [
+        "uniques": [
             "Cannot be purchased",
             "Destroyed when the city is captured",
             "Free Technology"],
         
-		"isNationalWonder": true,
+        "isNationalWonder": true,
         "cost": 125
-	},
+    },
     {
-		"name": "Private military company",
-		"uniqueTo": "Logicians",
+        "name": "Private military company",
+        "uniqueTo": "Logicians",
 
-		"requiredTech": "Military Science",
+        "requiredTech": "Military Science",
 
-		"happiness": -1,
+        "happiness": -1,
         "food": -1,
 
-		"uniques": [
-			"[+10] units cost no maintenance",
-			"[-5]% Culture cost of natural border growth [in this city]",
-			"Gain a free [Walls] [in this city]",
-			"Gain a free [Castle] [in this city]",
-			"Gain a free [Arsenal] [in this city]",
-			"May buy [Military] units with [Science] for [4] times their normal Production cost <in cities with a [Private military company]>",
-			"May buy [Military] units with [Science] for [4] times their normal Production cost <in cities with a [Palace]>",
+        "uniques": [
+            "[+10] units cost no maintenance",
+            "[-5]% Culture cost of natural border growth [in this city]",
+            "Gain a free [Walls] [in this city]",
+            "Gain a free [Castle] [in this city]",
+            "Gain a free [Arsenal] [in this city]",
+            "May buy [Military] units with [Science] for [4] times their normal Production cost <in cities with a [Private military company]>",
+            "May buy [Military] units with [Science] for [4] times their normal Production cost <in cities with a [Palace]>",
             "Cannot be purchased",
             "Destroyed when the city is captured"],
         
-		"isNationalWonder": true,
+        "isNationalWonder": true,
         "cost": 125
-	},
+    },
     {
-		"name": "Intelligence service",
-		"uniqueTo": "Logicians",
+        "name": "Intelligence service",
+        "uniqueTo": "Logicians",
 
-		"requiredTech": "Scientific Theory",
+        "requiredTech": "Scientific Theory",
 
-		"maintenance": 2,
-		"faith": 1,
+        "maintenance": 2,
+        "faith": 1,
 
-		"uniques": [
-			"[-5]% Culture cost of natural border growth [in this city]",
-			"Gain a free [Walls] [in this city]",
-			"Gain a free [Castle] [in this city]",
-			"Gain a free [Arsenal] [in this city]",
-			"May buy [Military] units with [Faith] for [4] times their normal Production cost <in cities with a [Intelligence service]>",
-			"May buy [Military] units with [Faith] for [4] times their normal Production cost <in cities with a [Palace]>",
+        "uniques": [
+            "[-5]% Culture cost of natural border growth [in this city]",
+            "Gain a free [Walls] [in this city]",
+            "Gain a free [Castle] [in this city]",
+            "Gain a free [Arsenal] [in this city]",
+            "May buy [Military] units with [Faith] for [4] times their normal Production cost <in cities with a [Intelligence service]>",
+            "May buy [Military] units with [Faith] for [4] times their normal Production cost <in cities with a [Palace]>",
 
-			"Notified of new Barbarian encampments",
-			"Great General provides double combat bonus",
-			"Science gained from research agreements [+5]%",
+            "Notified of new Barbarian encampments",
+            "Great General provides double combat bonus",
+            "Science gained from research agreements [+5]%",
             "Cannot be purchased",
             "Destroyed when the city is captured"],
         
-		"isNationalWonder": true,
+        "isNationalWonder": true,
         "cost": 125
-	}
+    }
 ]
