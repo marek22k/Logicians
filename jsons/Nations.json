@@ -2,7 +2,7 @@
     "name": "Logicians",
     "leaderName": "The logician",
     "adjective": ["Logician", "Logicians"],
-    "startBias": ["Snow"],
+    "startBias": ["Snow", "Mountain"],
     "preferredVictoryType": "Scientific",
 
     "declaringWar": "You have broken our logic. You will pay for this!",
