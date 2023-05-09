@@ -16,6 +16,7 @@
 | Ferris | Rust |
 | Free deer | Libreboot |
 | Gnu | GNU |
+| Scapy | Python Scapy |
 
 [List of computing mascots on Wikipedia](https://en.wikipedia.org/wiki/List_of_computing_mascots)
 

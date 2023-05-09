@@ -15,6 +15,28 @@
         "cost": 65
     },
 
+    // Religious units
+    {
+        "name": "Scapy",
+        "unitType": "Civilian",
+
+        "uniques": [
+            "Can [Spread Religion] [2] times",
+            "Can be purchased with [Science] [in all cities in which the majority religion is a major religion]",
+			"[-1] Sight",
+            "Unbuildable",
+            "Religious Unit",
+            "Hidden when religion is disabled"
+        ],
+
+        "religiousStrength": 1000,
+		"movement": 4,
+
+        "civilopediaText": [
+            { "text": "Scapy is very good at analyzing and manipulating others. It can penetrate the inner thoughts and thus spread a certain will." }
+        ]
+    },
+
     // Scout
     {
         "name": "Xue",

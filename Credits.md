@@ -37,6 +37,7 @@
 | Angry Dino | Joachim Hauser | [Noun Project](https://thenounproject.com/icon/angry-dino-739416/) |
 | Duke | ??? | [OpenJDK Duke Gallery](https://web.archive.org/web/20220630094932/https://wiki.openjdk.org/display/duke/Gallery) |
 | Experimental being | fahmionline | [Noun Project](https://thenounproject.com/icon/dna-5632736/) |
+| Scapy | ??? | [GitHub Scapy](https://github.com/secdev/scapy/blob/master/doc/scapy_logo.png) |
 
 ## Software
 
@@ -48,4 +49,3 @@
 # Others
 
 City names: https://namesfrog.com/city-names/
-
