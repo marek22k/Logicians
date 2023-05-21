@@ -12,7 +12,7 @@
         "requiredBuilding": "Monument",
 
         "uniques": [
-            # Workaround, see https://github.com/yairm210/Unciv/issues/9424
+            // Workaround, see https://github.com/yairm210/Unciv/issues/9424
             "Free [Slonik] appears",
             "Cannot be purchased",
             "Unsellable",
