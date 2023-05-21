@@ -12,7 +12,8 @@
         "requiredBuilding": "Monument",
 
         "uniques": [
-            "Free [Military] appears",
+            # Workaround, see https://github.com/yairm210/Unciv/issues/9424
+            "Free [Slonik] appears",
             "Cannot be purchased",
             "Unsellable",
             "Destroyed when the city is captured",
