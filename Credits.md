@@ -38,6 +38,8 @@
 | Duke | ??? | [OpenJDK Duke Gallery](https://web.archive.org/web/20220630094932/https://wiki.openjdk.org/display/duke/Gallery) |
 | Experimental being | fahmionline | [Noun Project](https://thenounproject.com/icon/dna-5632736/) |
 | Scapy | ??? | [GitHub Scapy](https://github.com/secdev/scapy/blob/master/doc/scapy_logo.png) |
+| Rose | CC BY-SA 4.0 | [RosenPass Logo](https://rosenpass.eu/RosenPass-Logo.svg) |
+| WireGuard | Carpe Diem | [Noun Project](https://thenounproject.com/icon/chinese-dragon-1267778/)
 
 ## Software
 

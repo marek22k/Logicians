@@ -34,21 +34,21 @@ BuildingIcons/Private military company
   index: -1
 BuildingIcons/Self-help group
   rotate: false
-  xy: 1044, 528
+  xy: 1252, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Spy Training Center
   rotate: false
-  xy: 1044, 320
+  xy: 1252, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Wall of fire
   rotate: false
-  xy: 1252, 528
+  xy: 1460, 736
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -158,51 +158,58 @@ UnitIcons/Religious architect
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Sakila
+UnitIcons/Rose
   rotate: false
   xy: 628, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Scapy
+UnitIcons/Sakila
   rotate: false
   xy: 836, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Slonik
+UnitIcons/Scapy
   rotate: false
-  xy: 1252, 736
+  xy: 1044, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Spy
+UnitIcons/Slonik
   rotate: false
   xy: 836, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Wilber
+UnitIcons/Spy
   rotate: false
-  xy: 1460, 736
+  xy: 1044, 320
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Xue
+UnitIcons/Wilber
   rotate: false
   xy: 1044, 112
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Yumi
+UnitIcons/Xue
   rotate: false
   xy: 1252, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Yumi
+  rotate: false
+  xy: 1460, 528
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

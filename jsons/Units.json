@@ -291,6 +291,25 @@
 
         "attackSound": "nonmetalhit",
         "cost": 380
+    },
+
+    {
+        "name": "Rose",
+        "unitType": "Armored",
+
+        //"requiredTech": "Sailing",
+        //"obsoleteTech": "Astronomy",
+        //"upgradesTo": "Dolphin",
+
+        "uniques" : [
+            "Cannot enter ocean tiles",
+            "Can move immediately once bought"],
+
+        "strength": 10,
+        "movement": 4,
+
+        "attackSound": "nonmetalhit",
+        "cost": 40
     }
 
     // Water units which replaces default ones

@@ -17,6 +17,8 @@
 | Free deer | Libreboot |
 | Gnu | GNU |
 | Scapy | Python Scapy |
+| Rose | Rosenpass |
+| ??? | WireGuard |
 
 [List of computing mascots on Wikipedia](https://en.wikipedia.org/wiki/List_of_computing_mascots)
 
