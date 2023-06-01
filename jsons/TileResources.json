@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Foobar",
+        "resourceType": "Strategic",
+        "happiness": 1,
+        "culture": 1,
+        "civilopediaText": [ { "text": "Foobar is a magical element that gives the mayors their strength. Without it, they cannot exist." } ]
+    }
+]

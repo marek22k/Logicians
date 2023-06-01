@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mayor",
+        "movementType": "Land",
+
+        "uniques": [
+            "[-20]% Strength for enemy [Air] units in adjacent [All] tiles",
+            "[+20]% Strength bonus for [Mayor] units within [2] tiles",
+            "[+10]% Strength bonus for [Uncapturable] units within [3] tiles",
+            "May Paradrop up to [3] tiles from inside friendly territory",
+            "Double movement in [Water]",
+            "Uncapturable",
+            "Unable to capture cities",
+            "Consumes [1] [Foobar]"
+        ]
+    }
+]

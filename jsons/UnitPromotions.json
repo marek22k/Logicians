@@ -1,0 +1,127 @@
+[
+    // row - x
+    // column - y
+
+    // Row 0-10 Heal instantly
+    // 10+ Units
+    //   11-30 Mayor
+
+    {
+        "name": "Emergency",
+        "uniques": [
+            "Heal this unit by [200] HP",
+            "Doing so will consume this opportunity to choose a Promotion"
+        ],
+        "unitTypes": [ "Mayor" ],
+        "row": 0,
+        "column": 0
+    },
+    {
+        "name": "Orientation I",
+        "uniques": [
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river",
+            "Ranged attacks may be performed over obstacles"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 11,
+        "column": 0
+    },
+    {
+        "name": "Orientation II",
+        "prerequisites": ["Orientation I"],
+        "uniques": [
+            "Can move after attacking"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 11,
+        "column": 1
+    },
+    {
+        "name": "Travel experience",
+        "uniques": [
+            "Ignores terrain cost",
+            "Can see over obstacles"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 12,
+        "column": 0
+    },
+    {
+        "name": "Retreat I",
+        "uniques": [
+            "May withdraw before melee ([30]%)"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 13,
+        "column": 0
+    },
+    {
+        "name": "Retreat II",
+        "prerequisites": ["Retreat I"],
+        "uniques": [
+            "May withdraw before melee ([50]%)"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 13,
+        "column": 1
+    },
+    {
+        "name": "Retreat III",
+        "prerequisites": ["Retreat II", "Travel experience"],
+        "uniques": [
+            "Ignores Zone of Control",
+            "Can pass through impassable tiles"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 13,
+        "column": 2
+    },
+    {
+        "name": "Missile Defense Tactics",
+        "uniques": [
+            "[1] extra interceptions may be made per turn"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 14,
+        "column": 0
+    },
+    {
+        "name": "First aid",
+        "uniques": [
+            "All adjacent units heal [+10] HP when healing"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 15,
+        "column": 0
+    },
+    {
+        "name": "Paratrooper training I",
+        "uniques": [
+            "May Paradrop up to [5] tiles from inside friendly territory"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 16,
+        "column": 0
+    },
+    {
+        "name": "Paratrooper training II",
+        "prerequisites": ["Paratrooper training I"],
+        "uniques": [
+            "May Paradrop up to [7] tiles from inside friendly territory"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 16,
+        "column": 1
+    },
+    {
+        "name": "Paratrooper training III",
+        "prerequisites": ["Paratrooper training II", "First aid"],
+        "uniques": [
+            "May Paradrop up to [9] tiles from inside friendly territory"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 16,
+        "column": 2
+    }
+]

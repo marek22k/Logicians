@@ -38,6 +38,18 @@
 | Duke | ??? | [OpenJDK Duke Gallery](https://web.archive.org/web/20220630094932/https://wiki.openjdk.org/display/duke/Gallery) |
 | Experimental being | fahmionline | [Noun Project](https://thenounproject.com/icon/dna-5632736/) |
 | Scapy | ??? | [GitHub Scapy](https://github.com/secdev/scapy/blob/master/doc/scapy_logo.png) |
+| City Hall | iconesia | [Noun Project](https://thenounproject.com/icon/office-building-1221019/) |
+| City Hall Extension | Komardews | [Noun Project](https://thenounproject.com/icon/extension-4831704/) |
+| Foobar | Creative Stall | [Noun Project](https://thenounproject.com/icon/gold-bars-stack-1770515/) |
+| Emergency | Loritas Medina | [Noun Project](https://thenounproject.com/icon/emergency-4238449/) |
+| Orientation | Adrien Coquet | [Noun Project](https://thenounproject.com/icon/orientation-1941261/) |
+| Travel experience | Hasna ZF | [Noun Project](https://thenounproject.com/icon/travel-5732277/) |
+| Retreat | Retreat | [Noun Project](https://thenounproject.com/icon/escape-5465740/) |
+| Missile Defense Tactics | Eucalyp | [Noun Project](enounproject.com/icon/missile-4158642/) |
+| First aid | luca fruzza | [Noun Project](https://thenounproject.com/icon/first-aid-1735276/) |
+| Paratrooper training | Muhammad Naufal Subhiansyah | [Noun Project](https://thenounproject.com/icon/paratrooper-5221573/) |
+| Mayor Bob | parkjisun | [Noun Project](https://thenounproject.com/icon/rabbit-1994931/) |
+| Mayor Alice | parkjisun | [Noun Project](https://thenounproject.com/icon/alice-1994929/) |
 
 ## Software
 

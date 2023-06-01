@@ -17,6 +17,8 @@
 | Free deer | Libreboot |
 | Gnu | GNU |
 | Scapy | Python Scapy |
+| Bob and Alice | [Alice and Bob on Wikipedia](https://en.wikipedia.org/wiki/Alice_and_Bob), [Alice & Bob](http://cryptocouple.com/) |
+| Foobar | [Foobar on Wikipedia](https://en.wikipedia.org/wiki/Foobar) |
 
 [List of computing mascots on Wikipedia](https://en.wikipedia.org/wiki/List_of_computing_mascots)
 

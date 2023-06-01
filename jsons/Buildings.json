@@ -69,6 +69,40 @@
         "cost": 120
     },
 
+    // City Halls for Foobar for Majors
+    {
+        "name": "City Hall",
+        "uniqueTo": "Logicians",
+
+        "cityHealth": 5,
+
+        "maintenance": 2,
+
+        "uniques": [
+            "Only available <after adopting [Tradition Complete]>"
+        ],
+
+        "cost": 400
+    },
+    {
+        "name": "City Hall Extension",
+        "uniqueTo": "Logicians",
+
+        "cityHealth": 5,
+        "cityStrength": 10,
+
+        "maintenance": 5,
+        "requiredBuilding": "City Hall",
+
+        "uniques": [
+            "Provides [1] [Foobar]",
+            "Limited to [3] per Civilization",
+            "Only available <after adopting [Liberty Complete]>"
+        ],
+
+        "cost": 4000
+    },
+
     // Nation wonders
     {
         "name": "Community Food Center",

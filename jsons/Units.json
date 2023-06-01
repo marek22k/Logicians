@@ -160,6 +160,48 @@
 
         "movement": 2
     },
+    
+    // Majors
+    {
+        "name": "Mayor Bob",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+
+        "strength": 10,
+        "rangedStrength": 20,
+        "range": 4,
+        "interceptRange": 5,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 4,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Mayor Alice",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+
+        "strength": 10,
+        "rangedStrength": 20,
+        "range": 4,
+        "interceptRange": 5,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 4,
+
+        "cost": 10,
+        "hurryCostModifier": 100
+    },
 
     // Fighter unit 1
     {
