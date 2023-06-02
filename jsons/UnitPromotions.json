@@ -78,15 +78,6 @@
         "column": 2
     },
     {
-        "name": "Missile Defense Tactics",
-        "uniques": [
-            "[1] extra interceptions may be made per turn"
-        ],
-		"unitTypes": [ "Mayor" ],
-        "row": 14,
-        "column": 0
-    },
-    {
         "name": "First aid",
         "uniques": [
             "All adjacent units heal [+10] HP when healing"
@@ -123,5 +114,35 @@
 		"unitTypes": [ "Mayor" ],
         "row": 16,
         "column": 2
+    },
+    {
+        "name": "Defense Tactics I",
+        "uniques": [
+            "[+100]% Strength <when defending>"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 17,
+        "column": 0
+    },
+    {
+        "name": "Defense Tactics II",
+        "prerequisites": ["Defense Tactics I"],
+        "uniques": [
+            "[+50]% Strength <when defending>"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 17,
+        "column": 1
+    },
+    {
+        "name": "Missile Defense Tactics",
+        "prerequisites": ["Defense Tactics I"],
+        "uniques": [
+            "[1] extra interceptions may be made per turn",
+            "[+100]% Strength <vs [Air] units>"
+        ],
+		"unitTypes": [ "Mayor" ],
+        "row": 18,
+        "column": 1
     }
 ]

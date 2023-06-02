@@ -50,6 +50,7 @@
 | Paratrooper training | Muhammad Naufal Subhiansyah | [Noun Project](https://thenounproject.com/icon/paratrooper-5221573/) |
 | Mayor Bob | parkjisun | [Noun Project](https://thenounproject.com/icon/rabbit-1994931/) |
 | Mayor Alice | parkjisun | [Noun Project](https://thenounproject.com/icon/alice-1994929/) |
+| Defense Tactics | Alena Artemova | [Noun Project](https://thenounproject.com/icon/shield-1002891/) |
 
 ## Software
 

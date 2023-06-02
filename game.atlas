@@ -6,204 +6,295 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Archive
   rotate: false
-  xy: 4, 528
+  xy: 4, 586
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/City Hall
+  rotate: false
+  xy: 212, 794
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/City Hall Extension
+  rotate: false
+  xy: 4, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Community Food Center
   rotate: false
-  xy: 212, 736
+  xy: 212, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Intelligence service
   rotate: false
-  xy: 628, 528
+  xy: 420, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Private military company
   rotate: false
-  xy: 836, 528
+  xy: 1044, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Self-help group
   rotate: false
-  xy: 1044, 528
+  xy: 1252, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Spy Training Center
   rotate: false
-  xy: 1044, 320
+  xy: 1252, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Wall of fire
   rotate: false
-  xy: 1252, 528
+  xy: 1460, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Logicians
   rotate: false
-  xy: 4, 4
+  xy: 1668, 686
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Foobar
+  rotate: false
+  xy: 4, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Angry Dino
   rotate: false
-  xy: 4, 736
+  xy: 4, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dino
   rotate: false
-  xy: 4, 320
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dolphin
   rotate: false
-  xy: 212, 528
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Duke
   rotate: false
-  xy: 420, 736
+  xy: 212, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Experimental being
   rotate: false
-  xy: 4, 112
+  xy: 420, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ferris
   rotate: false
-  xy: 212, 320
+  xy: 628, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Firefly
   rotate: false
-  xy: 420, 528
+  xy: 212, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Gnu
   rotate: false
-  xy: 628, 736
+  xy: 420, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Gooey
   rotate: false
-  xy: 212, 112
+  xy: 628, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Improved Moby
   rotate: false
-  xy: 420, 320
+  xy: 836, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kernel
   rotate: false
-  xy: 836, 736
+  xy: 628, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mastodon
   rotate: false
-  xy: 420, 112
+  xy: 836, 586
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mayor Alice
+  rotate: false
+  xy: 1044, 794
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mayor Bob
+  rotate: false
+  xy: 628, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Moby
   rotate: false
-  xy: 628, 320
+  xy: 836, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Religious architect
   rotate: false
-  xy: 1044, 736
+  xy: 1252, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sakila
   rotate: false
-  xy: 628, 112
+  xy: 836, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Scapy
   rotate: false
-  xy: 836, 320
+  xy: 1044, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Slonik
   rotate: false
-  xy: 1252, 736
+  xy: 1460, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Spy
   rotate: false
-  xy: 836, 112
+  xy: 1044, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wilber
   rotate: false
-  xy: 1460, 736
+  xy: 1668, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Xue
   rotate: false
-  xy: 1044, 112
+  xy: 1252, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Yumi
   rotate: false
-  xy: 1252, 320
+  xy: 1460, 378
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Defense Tactics
+  rotate: false
+  xy: 1876, 944
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Emergency
+  rotate: false
+  xy: 1460, 320
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/First aid
+  rotate: false
+  xy: 4, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Missile Defense Tactics
+  rotate: false
+  xy: 112, 112
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Orientation
+  rotate: false
+  xy: 1668, 628
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Paratrooper training
+  rotate: false
+  xy: 1776, 736
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Retreat
+  rotate: false
+  xy: 1876, 886
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Travel experience
+  rotate: false
+  xy: 1934, 944
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1

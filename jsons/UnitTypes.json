@@ -11,7 +11,15 @@
             "Double movement in [Water]",
             "Uncapturable",
             "Unable to capture cities",
-            "Consumes [1] [Foobar]"
+            "Consumes [1] [Foobar]",
+            "[-20]% Strength <when above [20] HP>",
+            "[-10]% Strength <in [Foreign Land] tiles>",
+            "[-20]% Strength <in [Enemy land] tiles>",
+            "[+50]% Strength <starting from the [Modern era]>",
+            "[+25]% to Flank Attack bonuses <after adopting [Honor]>",
+            "[+25]% to Flank Attack bonuses <after adopting [Patronage]>",
+            "[+25]% to Flank Attack bonuses <after adopting [Commerce]>",
+            "Heal this unit by [5] HP <upon losing at least [30] HP in a single attack>"
         ]
     }
 ]

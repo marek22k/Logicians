@@ -169,8 +169,9 @@
 
         "requiredResource": "Foobar",
 
-        "strength": 10,
-        "rangedStrength": 20,
+        // The strength should be dynamic
+        "strength": 8,
+        "rangedStrength": 13,
         "range": 4,
         "interceptRange": 5,
 
@@ -189,8 +190,9 @@
 
         "requiredResource": "Foobar",
 
-        "strength": 10,
-        "rangedStrength": 20,
+        // The strength should be dynamic
+        "strength": 8,
+        "rangedStrength": 13,
         "range": 4,
         "interceptRange": 5,
 
