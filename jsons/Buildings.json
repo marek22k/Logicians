@@ -75,7 +75,8 @@
         "uniqueTo": "Logicians",
 
         "cityHealth": 5,
-        // Add culture, happiness
+        "culture": 2,
+        "happiness": 1,
 
         "maintenance": 2,
 
@@ -91,7 +92,7 @@
 
         "cityHealth": 5,
         "cityStrength": 10,
-        // Add science?
+        "science": 3,
 
         "maintenance": 5,
         "requiredBuilding": "City Hall",
