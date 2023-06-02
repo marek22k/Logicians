@@ -174,7 +174,7 @@
         "upgradesTo": "Little Mayor Bob",
 
         "strength": 6,
-        "rangedStrength": 8,
+        "rangedStrength": 4,
         "range": 2,
         "interceptRange": 3,
 
@@ -197,7 +197,7 @@
         "upgradesTo": "Naive Mayor Bob",
 
         "strength": 8,
-        "rangedStrength": 10,
+        "rangedStrength": 6,
         "range": 2,
         "interceptRange": 3,
 
@@ -220,7 +220,7 @@
         "upgradesTo": "Clever Mayor Bob",
 
         "strength": 10,
-        "rangedStrength": 13,
+        "rangedStrength": 6,
         "range": 2,
         "interceptRange": 3,
 
@@ -243,8 +243,8 @@
         "upgradesTo": "Experienced Mayor Bob",
 
         "strength": 14,
-        "rangedStrength": 16,
-        "range": 3,
+        "rangedStrength": 8,
+        "range": 2,
         "interceptRange": 3,
 
         "uniques": [
@@ -266,8 +266,8 @@
         "upgradesTo": "Smart Mayor Bob",
 
         "strength": 17,
-        "rangedStrength": 19,
-        "range": 4,
+        "rangedStrength": 10,
+        "range": 3,
         "interceptRange": 5,
 
         "uniques": [
@@ -289,8 +289,8 @@
         "upgradesTo": "Wise Mayor Bob",
 
         "strength": 30,
-        "rangedStrength": 40,
-        "range": 4,
+        "rangedStrength": 15,
+        "range": 3,
         "interceptRange": 6,
 
         "uniques": [
@@ -312,8 +312,8 @@
         "upgradesTo": "Mayor Bob",
 
         "strength": 40,
-        "rangedStrength": 50,
-        "range": 4,
+        "rangedStrength": 20,
+        "range": 3,
         "interceptRange": 6,
 
         "uniques": [
@@ -333,8 +333,8 @@
         "requiredTech": "Globalization",
 
         "strength": 80,
-        "rangedStrength": 100,
-        "range": 4,
+        "rangedStrength": 40,
+        "range": 3,
         "interceptRange": 6,
 
         "uniques": [
@@ -356,7 +356,7 @@
         "obsoleteTech": "Sailing",
         "upgradesTo": "Little Mayor Alice",
 
-        "strength": 6,
+        "strength": 4,
         "rangedStrength": 8,
         "range": 2,
         "interceptRange": 3,
@@ -379,7 +379,7 @@
         "obsoleteTech": "Theology",
         "upgradesTo": "Naive Mayor Alice",
 
-        "strength": 8,
+        "strength": 6,
         "rangedStrength": 10,
         "range": 2,
         "interceptRange": 3,
@@ -402,7 +402,7 @@
         "obsoleteTech": "Banking",
         "upgradesTo": "Clever Mayor Alice",
 
-        "strength": 10,
+        "strength": 8,
         "rangedStrength": 13,
         "range": 2,
         "interceptRange": 3,
@@ -425,7 +425,7 @@
         "obsoleteTech": "Rifling",
         "upgradesTo": "Experienced Mayor Alice",
 
-        "strength": 14,
+        "strength": 12,
         "rangedStrength": 16,
         "range": 3,
         "interceptRange": 3,
@@ -448,7 +448,7 @@
         "obsoleteTech": "Railroads",
         "upgradesTo": "Smart Mayor Alice",
 
-        "strength": 17,
+        "strength": 14,
         "rangedStrength": 19,
         "range": 4,
         "interceptRange": 5,
@@ -471,7 +471,7 @@
         "obsoleteTech": "Pharmaceuticals",
         "upgradesTo": "Wise Mayor Alice",
 
-        "strength": 30,
+        "strength": 20,
         "rangedStrength": 40,
         "range": 4,
         "interceptRange": 6,
@@ -494,7 +494,7 @@
         "obsoleteTech": "Globalization",
         "upgradesTo": "Mayor Alice",
 
-        "strength": 40,
+        "strength": 30,
         "rangedStrength": 50,
         "range": 4,
         "interceptRange": 6,
@@ -515,7 +515,7 @@
         "requiredResource": "Foobar",
         "requiredTech": "Globalization",
 
-        "strength": 80,
+        "strength": 60,
         "rangedStrength": 100,
         "range": 4,
         "interceptRange": 6,
