@@ -162,23 +162,347 @@
     },
     
     // Majors
+    // Mayer Bob
     {
-        "name": "Mayor Bob",
+        "name": "New Mayor Bob",
         "unitType": "Mayor",
         "uniqueTo": "Logicians",
 
         "requiredResource": "Foobar",
+        "requiredTech": "Agriculture",
+        "obsoleteTech": "Sailing",
+        "upgradesTo": "Little Mayor Bob",
 
-        // The strength should be dynamic
+        "strength": 6,
+        "rangedStrength": 8,
+        "range": 2,
+        "interceptRange": 3,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 1,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Little Mayor Bob",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Sailing",
+        "obsoleteTech": "Theology",
+        "upgradesTo": "Naive Mayor Bob",
+
         "strength": 8,
+        "rangedStrength": 10,
+        "range": 2,
+        "interceptRange": 3,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 1,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Naive Mayor Bob",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Theology",
+        "obsoleteTech": "Banking",
+        "upgradesTo": "Clever Mayor Bob",
+
+        "strength": 10,
         "rangedStrength": 13,
+        "range": 2,
+        "interceptRange": 3,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 2,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Clever Mayor Bob",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Banking",
+        "obsoleteTech": "Rifling",
+        "upgradesTo": "Experienced Mayor Bob",
+
+        "strength": 14,
+        "rangedStrength": 16,
+        "range": 3,
+        "interceptRange": 3,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 2,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Experienced Mayor Bob",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Rifling",
+        "obsoleteTech": "Railroads",
+        "upgradesTo": "Smart Mayor Bob",
+
+        "strength": 17,
+        "rangedStrength": 19,
         "range": 4,
         "interceptRange": 5,
 
         "uniques": [
             "Limited to [1] per Civilization"],
         
+        "movement": 3,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Smart Mayor Bob",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Railroads",
+        "obsoleteTech": "Pharmaceuticals",
+        "upgradesTo": "Wise Mayor Bob",
+
+        "strength": 30,
+        "rangedStrength": 40,
+        "range": 4,
+        "interceptRange": 6,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 3,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Wise Mayor Bob",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Pharmaceuticals",
+        "obsoleteTech": "Globalization",
+        "upgradesTo": "Mayor Bob",
+
+        "strength": 40,
+        "rangedStrength": 50,
+        "range": 4,
+        "interceptRange": 6,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 3,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Mayor Bob",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Globalization",
+
+        "strength": 80,
+        "rangedStrength": 100,
+        "range": 4,
+        "interceptRange": 6,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
         "movement": 4,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    // Mayor Alice
+    {
+        "name": "New Mayor Alice",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Agriculture",
+        "obsoleteTech": "Sailing",
+        "upgradesTo": "Little Mayor Alice",
+
+        "strength": 6,
+        "rangedStrength": 8,
+        "range": 2,
+        "interceptRange": 3,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 1,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Little Mayor Alice",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Sailing",
+        "obsoleteTech": "Theology",
+        "upgradesTo": "Naive Mayor Alice",
+
+        "strength": 8,
+        "rangedStrength": 10,
+        "range": 2,
+        "interceptRange": 3,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 1,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Naive Mayor Alice",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Theology",
+        "obsoleteTech": "Banking",
+        "upgradesTo": "Clever Mayor Alice",
+
+        "strength": 10,
+        "rangedStrength": 13,
+        "range": 2,
+        "interceptRange": 3,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 2,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Clever Mayor Alice",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Banking",
+        "obsoleteTech": "Rifling",
+        "upgradesTo": "Experienced Mayor Alice",
+
+        "strength": 14,
+        "rangedStrength": 16,
+        "range": 3,
+        "interceptRange": 3,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 2,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Experienced Mayor Alice",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Rifling",
+        "obsoleteTech": "Railroads",
+        "upgradesTo": "Smart Mayor Alice",
+
+        "strength": 17,
+        "rangedStrength": 19,
+        "range": 4,
+        "interceptRange": 5,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 3,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Smart Mayor Alice",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Railroads",
+        "obsoleteTech": "Pharmaceuticals",
+        "upgradesTo": "Wise Mayor Alice",
+
+        "strength": 30,
+        "rangedStrength": 40,
+        "range": 4,
+        "interceptRange": 6,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 3,
+
+        "cost": 2400,
+        "hurryCostModifier": 100
+    },
+    {
+        "name": "Wise Mayor Alice",
+        "unitType": "Mayor",
+        "uniqueTo": "Logicians",
+
+        "requiredResource": "Foobar",
+        "requiredTech": "Pharmaceuticals",
+        "obsoleteTech": "Globalization",
+        "upgradesTo": "Mayor Alice",
+
+        "strength": 40,
+        "rangedStrength": 50,
+        "range": 4,
+        "interceptRange": 6,
+
+        "uniques": [
+            "Limited to [1] per Civilization"],
+        
+        "movement": 3,
 
         "cost": 2400,
         "hurryCostModifier": 100
@@ -189,19 +513,19 @@
         "uniqueTo": "Logicians",
 
         "requiredResource": "Foobar",
+        "requiredTech": "Globalization",
 
-        // The strength should be dynamic
-        "strength": 8,
-        "rangedStrength": 13,
+        "strength": 80,
+        "rangedStrength": 100,
         "range": 4,
-        "interceptRange": 5,
+        "interceptRange": 6,
 
         "uniques": [
             "Limited to [1] per Civilization"],
         
         "movement": 4,
 
-        "cost": 10,
+        "cost": 2400,
         "hurryCostModifier": 100
     },
 
