@@ -51,6 +51,8 @@
 | Mayor Bob | parkjisun | [Noun Project](https://thenounproject.com/icon/rabbit-1994931/) |
 | Mayor Alice | parkjisun | [Noun Project](https://thenounproject.com/icon/alice-1994929/) |
 | Defense Tactics | Alena Artemova | [Noun Project](https://thenounproject.com/icon/shield-1002891/) |
+| U-Boot | ??? | [U-Boot source code](https://source.denx.de/u-boot/u-boot/-/blob/master/tools/logos/u-boot_logo.svg) |
+| Nuclear U-Boot | Anand Prahlad | [Noun Project](https://thenounproject.com/icon/submarine-44760/) |
 
 ## Software
 

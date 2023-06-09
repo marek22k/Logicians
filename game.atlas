@@ -41,35 +41,35 @@ BuildingIcons/Intelligence service
   index: -1
 BuildingIcons/Private military company
   rotate: false
-  xy: 1044, 586
+  xy: 1252, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Self-help group
   rotate: false
-  xy: 1252, 586
+  xy: 1460, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Spy Training Center
   rotate: false
-  xy: 1252, 378
+  xy: 1460, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Wall of fire
   rotate: false
-  xy: 1460, 586
+  xy: 1252, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Logicians
   rotate: false
-  xy: 1668, 686
+  xy: 1876, 894
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -284,114 +284,128 @@ UnitIcons/Moby
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Religious architect
+UnitIcons/Nuclear U-Boot
   rotate: false
-  xy: 1252, 794
+  xy: 1044, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Sakila
+UnitIcons/Religious architect
   rotate: false
   xy: 836, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Scapy
+UnitIcons/Sakila
   rotate: false
   xy: 1044, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Slonik
+UnitIcons/Scapy
   rotate: false
-  xy: 1460, 794
+  xy: 1252, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Spy
+UnitIcons/Slonik
   rotate: false
   xy: 1044, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Wilber
+UnitIcons/Spy
+  rotate: false
+  xy: 1252, 378
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/U-Boot
   rotate: false
   xy: 1668, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Xue
-  rotate: false
-  xy: 1252, 170
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Yumi
+UnitIcons/Wilber
   rotate: false
   xy: 1460, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Xue
+  rotate: false
+  xy: 1668, 586
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Yumi
+  rotate: false
+  xy: 1460, 170
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Defense Tactics
   rotate: false
-  xy: 1876, 944
+  xy: 1668, 528
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Emergency
   rotate: false
-  xy: 1460, 320
+  xy: 4, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/First aid
   rotate: false
-  xy: 4, 4
+  xy: 112, 112
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Missile Defense Tactics
   rotate: false
-  xy: 112, 112
+  xy: 1876, 836
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Orientation
   rotate: false
-  xy: 1668, 628
+  xy: 1984, 944
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Paratrooper training
   rotate: false
-  xy: 1776, 736
+  xy: 1668, 470
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Retreat
   rotate: false
-  xy: 1876, 886
+  xy: 1726, 528
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Travel experience
   rotate: false
-  xy: 1934, 944
+  xy: 170, 112
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

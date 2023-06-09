@@ -752,6 +752,51 @@
         "attackSound": "shipguns",
         "cost": 365
     },
+    // Submarine replacements
+    {
+        "name": "U-Boot",
+        "unitType": "Submarine",
+        "replaces": "Submarine",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Refrigeration",
+		"upgradesTo": "Nuclear U-Boot",
+
+        "uniques" : [
+            "Can move immediately once bought",
+            "[+75]% Strength <when attacking>",
+            "Can only attack [Water] tiles"],
+
+        "strength": 35,
+        "rangedStrength": 60,
+        "movement": 6,
+
+        "attackSound": "torpedo",
+        "cost": 320
+    },
+    {
+        "name": "Nuclear U-Boot",
+        "unitType": "Submarine",
+        "replaces": "Nuclear Submarine",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Telecommunications",
+
+        "uniques" : [
+            "Can move immediately once bought",
+            "[+75]% Strength <when attacking>",
+            "Can only attack [Water] tiles",
+            "[+2] Sight",
+            "Can carry [2] [Missile] units"],
+
+        "strength": 50,
+        "range": 3,
+        "rangedStrength": 85,
+        "movement": 6,
+
+        "attackSound": "torpedo",
+        "cost": 420
+    },
 
     // Water 2
     {
