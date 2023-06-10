@@ -106,6 +106,32 @@
         "cost": 4000
     },
 
+    {
+        "name": "Decentralized network",
+        "uniqueTo": "Logicians",
+
+        "happiness": 1,
+        "culture": 2,
+        "science": 2,
+
+        "maintenance": 1,
+        "requiredTech": "Computers",
+        "percentStatBonus": {
+            "culture": 15,
+            "science": 15
+        },
+
+        "uniques": [
+            "Requires at least [4] population",
+            "Cost increases by [1] per owned city",
+            // "Requires a [Science] in at least [3] cities",
+            // Currently creates a crash, see https://github.com/yairm210/Unciv/issues/9561
+            "Destroyed when the city is captured"
+        ],
+
+        "civilopediaText": [ { "text": "The decentralized network represents an alternative to the conventional communication paths of the logicians. It has the version number 42." } ]
+    },
+
     // Nation wonders
     {
         "name": "Community Food Center",

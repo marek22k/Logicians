@@ -20,6 +20,7 @@
 | Bob and Alice | [Alice and Bob on Wikipedia](https://en.wikipedia.org/wiki/Alice_and_Bob), [Alice & Bob](http://cryptocouple.com/) |
 | Foobar | [Foobar on Wikipedia](https://en.wikipedia.org/wiki/Foobar) |
 | Das U-Boot | [uboot bootloader](https://source.denx.de/u-boot/u-boot/) |
+| Decentralized network | [dn42](https://dn42.dev/) |
 
 [List of computing mascots on Wikipedia](https://en.wikipedia.org/wiki/List_of_computing_mascots)
 
