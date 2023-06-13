@@ -21,6 +21,7 @@
 | Foobar | [Foobar on Wikipedia](https://en.wikipedia.org/wiki/Foobar) |
 | Das U-Boot | [uboot bootloader](https://source.denx.de/u-boot/u-boot/) |
 | Decentralized network | [dn42](https://dn42.dev/) |
+| Camilla | Raku |
 
 [List of computing mascots on Wikipedia](https://en.wikipedia.org/wiki/List_of_computing_mascots)
 

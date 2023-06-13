@@ -95,6 +95,13 @@ UnitIcons/Angry Dino
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Camelia
+  rotate: false
+  xy: 1668, 171
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
 UnitIcons/Clever Mayor Alice
   rotate: false
   xy: 212, 586
@@ -363,56 +370,56 @@ UnitIcons/Yumi
   index: -1
 UnitPromotionIcons/Defense Tactics
   rotate: false
-  xy: 1668, 320
+  xy: 4, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Emergency
   rotate: false
-  xy: 4, 4
+  xy: 112, 112
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/First aid
   rotate: false
-  xy: 112, 112
+  xy: 1876, 836
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Missile Defense Tactics
   rotate: false
-  xy: 1876, 836
+  xy: 1984, 944
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Orientation
   rotate: false
-  xy: 1984, 944
+  xy: 170, 112
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Paratrooper training
   rotate: false
-  xy: 1668, 262
+  xy: 1876, 778
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Retreat
   rotate: false
-  xy: 1726, 320
+  xy: 228, 112
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Travel experience
   rotate: false
-  xy: 170, 112
+  xy: 1876, 720
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

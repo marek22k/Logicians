@@ -45,7 +45,7 @@
         "uniqueTo": "Logicians",
 
         "obsoleteTech": "Scientific Theory",
-        "upgradesTo": "Spy",
+        "upgradesTo": "Camelia",
 
         "strength": 4,
         "movement": 2,
@@ -57,14 +57,36 @@
         "cost": 20
     },
     {
-        "name": "Spy",
+        "name": "Camelia",
         "unitType": "Scout",
         "uniqueTo": "Logicians",
 
         "requiredTech": "Scientific Theory",
+        "obsoleteTech": "Stealth",
+        "upgradesTo": "Spy",
 
-        "strength": 30,
+        "strength": 14,
         "movement": 3,
+
+        "uniques": [
+            "May capture killed [{Civilian} {Land}] units",
+            "Invisible to non-adjacent units",
+            "Uncapturable",
+            "Unable to capture cities"],
+
+        "attackSound": "nonmetalhit",
+        "promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
+        "cost": 160
+    },
+    {
+        "name": "Spy",
+        "unitType": "Scout",
+        "uniqueTo": "Logicians",
+
+        "requiredTech": "Stealth",
+
+        "strength": 50,
+        "movement": 4,
 
         "uniques": [
             "May capture killed [{Civilian}] units",
@@ -81,7 +103,7 @@
 
         "attackSound": "nonmetalhit",
         "promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
-        "cost": 220
+        "cost": 300
     },
 
     // Religious units
