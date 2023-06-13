@@ -13,63 +13,63 @@ BuildingIcons/Archive
   index: -1
 BuildingIcons/City Hall
   rotate: false
-  xy: 212, 794
+  xy: 4, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/City Hall Extension
   rotate: false
-  xy: 4, 378
+  xy: 212, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Community Food Center
   rotate: false
-  xy: 4, 170
+  xy: 212, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Decentralized network
   rotate: false
-  xy: 212, 378
+  xy: 420, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Intelligence service
   rotate: false
-  xy: 1044, 794
+  xy: 628, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Private military company
   rotate: false
-  xy: 836, 170
+  xy: 1044, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Self-help group
   rotate: false
-  xy: 1044, 170
+  xy: 1252, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Spy Training Center
   rotate: false
-  xy: 1668, 794
+  xy: 1252, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Wall of fire
   rotate: false
-  xy: 1460, 378
+  xy: 1668, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -97,273 +97,273 @@ UnitIcons/Angry Dino
   index: -1
 UnitIcons/Camelia
   rotate: false
-  xy: 1668, 171
-  size: 199, 199
-  orig: 199, 199
+  xy: 212, 794
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Clever Mayor Alice
   rotate: false
-  xy: 212, 586
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Experienced Mayor Alice
   rotate: false
-  xy: 212, 586
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Little Mayor Alice
   rotate: false
-  xy: 212, 586
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mayor Alice
   rotate: false
-  xy: 212, 586
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Naive Mayor Alice
   rotate: false
-  xy: 212, 586
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/New Mayor Alice
   rotate: false
-  xy: 212, 586
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Smart Mayor Alice
   rotate: false
-  xy: 212, 586
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wise Mayor Alice
   rotate: false
-  xy: 212, 586
+  xy: 420, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Clever Mayor Bob
   rotate: false
-  xy: 420, 794
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Experienced Mayor Bob
   rotate: false
-  xy: 420, 794
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Little Mayor Bob
   rotate: false
-  xy: 420, 794
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mayor Bob
   rotate: false
-  xy: 420, 794
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Naive Mayor Bob
   rotate: false
-  xy: 420, 794
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/New Mayor Bob
   rotate: false
-  xy: 420, 794
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Smart Mayor Bob
   rotate: false
-  xy: 420, 794
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wise Mayor Bob
   rotate: false
-  xy: 420, 794
+  xy: 4, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dino
   rotate: false
-  xy: 420, 586
+  xy: 628, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dolphin
   rotate: false
-  xy: 628, 794
+  xy: 212, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Duke
   rotate: false
-  xy: 212, 170
+  xy: 420, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Experimental being
   rotate: false
-  xy: 420, 378
+  xy: 628, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ferris
   rotate: false
-  xy: 628, 586
+  xy: 836, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Firefly
   rotate: false
-  xy: 836, 794
+  xy: 420, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Gnu
   rotate: false
-  xy: 420, 170
+  xy: 628, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Gooey
   rotate: false
-  xy: 628, 378
+  xy: 836, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Improved Moby
   rotate: false
-  xy: 836, 586
+  xy: 1044, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kernel
   rotate: false
-  xy: 628, 170
+  xy: 836, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mastodon
   rotate: false
-  xy: 836, 378
+  xy: 1044, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Moby
   rotate: false
-  xy: 1044, 586
+  xy: 1252, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Nuclear U-Boot
   rotate: false
-  xy: 1252, 794
+  xy: 836, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Religious architect
   rotate: false
-  xy: 1044, 378
+  xy: 1252, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sakila
   rotate: false
-  xy: 1252, 586
+  xy: 1460, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Scapy
   rotate: false
-  xy: 1460, 794
+  xy: 1044, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Slonik
   rotate: false
-  xy: 1252, 378
+  xy: 1460, 586
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Spy
   rotate: false
-  xy: 1460, 586
+  xy: 1668, 794
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/U-Boot
   rotate: false
-  xy: 1252, 170
+  xy: 1460, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wilber
   rotate: false
-  xy: 1668, 586
+  xy: 1460, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Xue
   rotate: false
-  xy: 1460, 170
+  xy: 1668, 378
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Yumi
   rotate: false
-  xy: 1668, 378
+  xy: 1668, 170
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
