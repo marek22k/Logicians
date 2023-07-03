@@ -2,9 +2,9 @@
     // row - x
     // column - y
 
-    // Row 0-10 Heal instantly
+    // Row 100-110 Heal instantly
     // 10+ Units
-    //   11-30 Mayor
+    //   111-130 Mayor
 
     {
         "name": "Emergency",
@@ -13,7 +13,7 @@
             "Doing so will consume this opportunity to choose a Promotion"
         ],
         "unitTypes": [ "Mayor" ],
-        "row": 0,
+        "row": 101,
         "column": 0
     },
     {
@@ -24,7 +24,7 @@
             "Ranged attacks may be performed over obstacles"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 11,
+        "row": 111,
         "column": 0
     },
     {
@@ -34,7 +34,7 @@
             "Can move after attacking"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 11,
+        "row": 111,
         "column": 1
     },
     {
@@ -44,7 +44,7 @@
             "Can see over obstacles"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 12,
+        "row": 112,
         "column": 0
     },
     {
@@ -53,7 +53,7 @@
             "May withdraw before melee ([30]%)"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 13,
+        "row": 113,
         "column": 0
     },
     {
@@ -63,7 +63,7 @@
             "May withdraw before melee ([50]%)"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 13,
+        "row": 113,
         "column": 1
     },
     {
@@ -74,7 +74,7 @@
             "Can pass through impassable tiles"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 13,
+        "row": 113,
         "column": 2
     },
     {
@@ -83,7 +83,7 @@
             "All adjacent units heal [+10] HP when healing"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 15,
+        "row": 115,
         "column": 0
     },
     {
@@ -92,7 +92,7 @@
             "May Paradrop up to [5] tiles from inside friendly territory"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 16,
+        "row": 116,
         "column": 0
     },
     {
@@ -102,7 +102,7 @@
             "May Paradrop up to [7] tiles from inside friendly territory"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 16,
+        "row": 116,
         "column": 1
     },
     {
@@ -112,7 +112,7 @@
             "May Paradrop up to [9] tiles from inside friendly territory"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 16,
+        "row": 116,
         "column": 2
     },
     {
@@ -121,7 +121,7 @@
             "[+100]% Strength <when defending>"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 17,
+        "row": 117,
         "column": 0
     },
     {
@@ -131,7 +131,7 @@
             "[+50]% Strength <when defending>"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 17,
+        "row": 117,
         "column": 1
     },
     {
@@ -142,7 +142,7 @@
             "[+100]% Strength <vs [Air] units>"
         ],
 		"unitTypes": [ "Mayor" ],
-        "row": 18,
+        "row": 118,
         "column": 1
     }
 ]
