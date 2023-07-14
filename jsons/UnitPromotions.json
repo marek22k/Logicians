@@ -107,7 +107,7 @@
     },
     {
         "name": "Paratrooper training III",
-        "prerequisites": ["Paratrooper training II", "First aid"],
+        "prerequisites": ["Paratrooper training II"],
         "uniques": [
             "May Paradrop up to [9] tiles from inside friendly territory"
         ],
