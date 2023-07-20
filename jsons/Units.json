@@ -97,9 +97,7 @@
             "Uncapturable",
             "Unable to capture cities",
             "Can move after attacking",
-            "Can enter ice tiles <during a Golden Age>",
-            "[+3]% Unhappiness from [Population] [in all cities connected to capital]",
-            "[+3]% Unhappiness from [Followers of the Majority Religion] [in holy cities]"],
+            "Can enter ice tiles <during a Golden Age>"],
 
         "attackSound": "nonmetalhit",
         "promotions": ["Ignore terrain cost", "Scouting I", "Survivalism I"],
