@@ -55,6 +55,7 @@
 | Nuclear U-Boot | Anand Prahlad | [Noun Project](https://thenounproject.com/icon/submarine-44760/) |
 | Camilla | ??? | [GitHub Raku](https://github.com/Raku/mu/blob/master/misc/camelia.svg) |
 | Konqi | Tyson Tan | [KDE Promo/Material/Mascots](https://community.kde.org/Promo/Material/Mascots) |
+| bird | ??? | [bird.network.cz](https://bird.network.cz/ico/head.png) |
 
 ## Software
 
