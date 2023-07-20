@@ -24,6 +24,7 @@
 | Camilla | Raku |
 | Konqi | [KDE](https://kde.org/) |
 | bird | [bird](https://bird.network.cz/) |
+| WireGuard | [WireGuard](https://www.wireguard.com/) |
 
 [List of computing mascots on Wikipedia](https://en.wikipedia.org/wiki/List_of_computing_mascots)
 
