@@ -22,6 +22,7 @@
 | Das U-Boot | [uboot bootloader](https://source.denx.de/u-boot/u-boot/) |
 | Decentralized network | [dn42](https://dn42.dev/) |
 | Camilla | Raku |
+| Konqi | [KDE](https://kde.org/) |
 
 [List of computing mascots on Wikipedia](https://en.wikipedia.org/wiki/List_of_computing_mascots)
 

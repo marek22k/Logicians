@@ -54,6 +54,7 @@
 | U-Boot | ??? | [U-Boot source code](https://source.denx.de/u-boot/u-boot/-/blob/master/tools/logos/u-boot_logo.svg) |
 | Nuclear U-Boot | Anand Prahlad | [Noun Project](https://thenounproject.com/icon/submarine-44760/) |
 | Camilla | ??? | [GitHub Raku](https://github.com/Raku/mu/blob/master/misc/camelia.svg) |
+| Konqi | Tyson Tan | [KDE Promo/Material/Mascots](https://community.kde.org/Promo/Material/Mascots) |
 
 ## Software
 
