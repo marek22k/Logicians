@@ -11,7 +11,6 @@
 | Sakila | [MySQL](https://www.mysql.com/) |
 | Xue | [Xfce Desktop](https://xfce.org/) |
 | Gooey | [WebGUI](http://www.webgui.org/) |
-| Octocat | GitHub |
 | Wilber | [GIMP](https://www.gimp.org/) |
 | Ferris | [Rust](https://www.rust-lang.org/) |
 | Free deer | [Libreboot](https://libreboot.org/) |
