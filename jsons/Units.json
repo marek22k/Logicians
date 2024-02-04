@@ -21,7 +21,7 @@
         "unitType": "Civilian",
 
         "uniques": [
-            "Can [Spread Religion] [2] times",
+            "Can Spread Religion <[2] times> <after which this unit is consumed>",
             "Can be purchased with [Science] [in all cities in which the majority religion is a major religion]",
 			"[-1] Sight",
             "Unbuildable",
@@ -171,9 +171,10 @@
         "uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Can be earned through combat",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "[+5]% Defense bonus for [All] units within [2] tiles",
-            "[+10]% Defense bonus for [Civilian] units within [3] tiles",
+            "[-10]% Strength for enemy [All] units in adjacent [Friendly Land] tiles",
+            "[-5]% Strength for enemy [All] units in adjacent [Foreign Land] tiles",
             "Great Person - [War]",
             "Unbuildable",
             "Uncapturable"],

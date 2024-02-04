@@ -40,6 +40,7 @@
         // "May buy [Religious architect] units for [300] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <after discovering [Theology]>",
 
         // Bonus
+        /* https://github.com/yairm210/Unciv/issues/3242#issuecomment-1925897597 */
         "[+5]% combat bonus for units fighting in [Foreign Land]",
         "Defense bonus for units fighting in [Friendly Land]",
         "[+1 Food] per [1] population [in capital]",
