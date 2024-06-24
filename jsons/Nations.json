@@ -45,7 +45,7 @@
         "Defense bonus for units fighting in [Friendly Land]",
         "[+1 Food] per [1] population [in capital]",
         "[+10]% [Food] [in capital]",
-        "Free [Kernel] appears <upon discovering [Gunpowder]>",
+        "Free [Kernel] appears <upon discovering [Gunpowder] technology>",
         "When conquering an encampment, earn [0] Gold and recruit a Barbarian unit",
 
         // Anti-Bonus
@@ -57,7 +57,7 @@
         "[+200]% maintenance costs <for [Nuclear Weapon] units>",
 
         // Scout Bonus
-        "Free [Xue] appears <upon discovering [Trapping]>",
+        "Free [Xue] appears <upon discovering [Trapping] technology>",
 
         // Settler and Worker bonus
         "[-90]% maintenance costs <for [Firefly] units>",
