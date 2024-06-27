@@ -41,8 +41,7 @@
 
         // Bonus
         /* https://github.com/yairm210/Unciv/issues/3242#issuecomment-1925897597 */
-        "[+5]% combat bonus for units fighting in [Foreign Land]",
-        "Defense bonus for units fighting in [Friendly Land]",
+        "[+5]% Strength <when defending> <in [Foreign Land] tiles>",
         "[+1 Food] per [1] population [in capital]",
         "[+10]% [Food] [in capital]",
         "Free [Kernel] appears <upon discovering [Gunpowder] technology>",
@@ -74,6 +73,7 @@
         "Enables [Xue] units to enter coastal tiles <during a Golden Age>",
         "Enables [Spy] units to enter coastal tiles <during a Golden Age>"
         // see https://github.com/yairm210/Unciv/issues/3242#issuecomment-1490640999
+        // and https://github.com/yairm210/Unciv/issues/3242#issuecomment-2195191671
     ],
     "cities": [
         "Logic Hub",
