@@ -9,7 +9,7 @@
     {
         "name": "Emergency",
         "uniques": [
-            "Heal this unit by [200] HP",
+            "[This Unit] heals [200] HP",
             "Doing so will consume this opportunity to choose a Promotion"
         ],
         "unitTypes": [ "Mayor" ],
@@ -50,7 +50,7 @@
     {
         "name": "Retreat I",
         "uniques": [
-            "May withdraw before melee ([30]%)"
+            "Withdraws before melee combat <with [30]% chance>"
         ],
 		"unitTypes": [ "Mayor" ],
         "row": 113,
@@ -60,7 +60,7 @@
         "name": "Retreat II",
         "prerequisites": ["Retreat I"],
         "uniques": [
-            "May withdraw before melee ([50]%)"
+            "Withdraws before melee combat <with [50]% chance>"
         ],
 		"unitTypes": [ "Mayor" ],
         "row": 113,

@@ -26,7 +26,7 @@
 			"[-1] Sight",
             "Unbuildable",
             "Religious Unit",
-            "Hidden when religion is disabled"
+            "Only available <when religion is enabled>"
         ],
 
         "religiousStrength": 1000,
@@ -119,7 +119,7 @@
     //         "Provides a [Pagoda] in your first [1] cities for free <by consuming this unit>",
     //         "Religious Unit",
     //         "Unbuildable",
-    //         "Hidden when religion is disabled"],
+    //         "Only available <when religion is enabled>"],
     //
     //     "hurryCostModifier": 100,
     //
@@ -716,7 +716,7 @@
 
         "uniques" : [
             "Can move immediately once bought",
-            "May withdraw before melee ([80]%)",
+            "Withdraws before melee combat <with [80]% chance>",
             "[+1] Sight"],
 
         "hurryCostModifier": 20,
@@ -738,7 +738,7 @@
 
         "uniques" : [
             "Can move immediately once bought",
-            "May withdraw before melee ([80]%)",
+            "Withdraws before melee combat <with [80]% chance>",
             "[+33]% Strength <vs cities>",
             "Double movement in [Coast]",
             "[+1] Sight"],
@@ -759,7 +759,7 @@
 
         "uniques" : [
             "Can move immediately once bought",
-            "May withdraw before melee ([80]%)",
+            "Withdraws before melee combat <with [80]% chance>",
             "[+33]% Strength <vs cities>",
             "Double movement in [Coast]",
             "Can see invisible [Submarine] units",
