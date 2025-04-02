@@ -74,6 +74,7 @@
         "Enables [Spy] units to enter coastal tiles <during a Golden Age>"
         // see https://github.com/yairm210/Unciv/issues/3242#issuecomment-1490640999
         // and https://github.com/yairm210/Unciv/issues/3242#issuecomment-2195191671
+        // and https://github.com/yairm210/Unciv/issues/3242#issuecomment-2772077930
     ],
     "cities": [
         "Logic Hub",
